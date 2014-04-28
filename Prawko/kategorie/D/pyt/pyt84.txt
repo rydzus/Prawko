@@ -1,0 +1,5 @@
+84. Tablicą tą może być oznaczony:
+a) autobus przewożący niezorganizowaną grupę dzieci
+b) pojazd przewożący zorganizowaną grupę dzieci lub młodzieży do lat 18
+c) autobus szkolny
+bc

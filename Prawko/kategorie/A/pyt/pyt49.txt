@@ -1,0 +1,5 @@
+49. Jazda motocyklem trzypasową jezdnią jednokierunkową jest dozwolona:
+a) dowolnym pasem ruchu, jeżeli po jezdni nie poruszają się inne pojazdy
+b) prawym pasem ruchu, jeżeli środkowym i lewym pasem ruchu nie poruszają się inne pojazdy
+c) środkowym pasem ruchu, jeżeli prawym pasem ruchu nie poruszają się inne pojazdy
+b

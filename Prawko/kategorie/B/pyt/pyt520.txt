@@ -1,0 +1,5 @@
+520. Poza obszarem zabudowanym w tunelu o długości przekraczającej 500 metrów, kierujący samochodem osobowym jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż:
+a) 30 m,
+b) 50 m,
+c) 80 m.
+b

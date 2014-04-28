@@ -1,0 +1,5 @@
+332. Kierujący pojazdem powinien zmienić światła drogowe na mijania, gdy zbliża się do pojazdu:
+a) nadjeżdżającego z przeciwka
+b) poprzedzającego, którego kierujący może być oślepiony
+c) szynowego, jeśli istnieje możliwość oślepienia kierującego nim
+abc

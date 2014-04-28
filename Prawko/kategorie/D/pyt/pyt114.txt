@@ -1,0 +1,5 @@
+114. Bezpośrednio po uruchomieniu zimnego silnika kierujący autobusem powinien unikać:
+a) jazdy na niskich biegach przy średnich prędkościach obrotowych
+b) wykorzystywania pełnej mocy silnika
+c) natychmiastowego ruszania
+bc

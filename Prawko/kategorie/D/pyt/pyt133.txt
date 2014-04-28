@@ -1,0 +1,5 @@
+133. Jeżeli silnik holowanego autobusu nie jest sprawny, to należy:
+a) odłączyć hamulec postojowy, gdy brak jest powietrza  w pneumatycznym układzie hamulcowym
+b) odłączyć wał napędowy przy dłuższym holowaniu
+c) holować go wyłącznie w sposób wykluczający kierowanie nim
+ab

@@ -1,0 +1,5 @@
+354. U dziecka w wieku przedszkolnym masaż serca prowadzi się:
+a) na środku klatki piersiowej - jednym palcem,
+b) na środku klatki piersiowej - dwoma palcami,
+c) na środku klatki piersiowej - jedną ręką. 
+c

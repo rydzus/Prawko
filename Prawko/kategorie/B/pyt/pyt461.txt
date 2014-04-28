@@ -1,0 +1,5 @@
+461. Kierujący samochodem osobowym, w czasie znoszenia tyłu pojazdu w prawo, powinien przednie koła:
+a) pozostawić w dotychczasowym położeniu
+b) skręcić w lewo, a następnie w prawo
+c) skręcić w prawo, a następnie w lewo
+c

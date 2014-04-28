@@ -1,0 +1,5 @@
+149. Ten migający sygnał:
+a) zezwala na wjazd za sygnalizator po uprzednim zatrzymaniu się przed nim,
+b) zezwala na wjazd za sygnalizator pod warunkiem nie utrudniania ruchu innym jego uczestnikom,
+c) zabrania wjazdu za sygnalizator.
+c

@@ -1,0 +1,5 @@
+280. W tej sytuacji kierujący samochodem osobowym może wyprzedzić:
+a) motocykl
+b) pojazd zaprzęgowy
+c) kolumnę pieszych
+abc

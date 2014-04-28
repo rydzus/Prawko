@@ -1,0 +1,5 @@
+135. Odłączona od pojazdu ciągnącego przyczepa wyposażona w pneumatyczny układ hamulcowy:
+a) powinna być zabezpieczona przez podłożenie klinów pod jej koła
+b) ma zablokowane koła
+c) może być dodatkowo zabezpieczona przez włączenie hamulca postojowego
+bc

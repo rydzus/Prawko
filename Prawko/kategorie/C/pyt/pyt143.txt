@@ -1,0 +1,5 @@
+143. Przed rozpoczęciem dłuższej jazdy kierujący samochodem ciężarowym powinien:
+a) sprawdzić, czy pod pojazdem nie ma śladów oleju lub paliwa
+b) sprawdzić ciśnienie powietrza w ogumieniu
+c) upewnić się, że ładunek został prawidłowo zabezpieczony
+abc

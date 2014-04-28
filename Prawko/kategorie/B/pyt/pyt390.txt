@@ -1,0 +1,5 @@
+390. Znak ten dotyczy kierujących:
+a) samochodami osobowymi
+b) ciągnikami rolniczymi
+c) pojazdami wolnobieżnymi
+bc

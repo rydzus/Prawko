@@ -1,0 +1,5 @@
+111. Umieszczone na jezdni punktowe elementy odblaskowe barwy żółtej mogą wyznaczać:
+a) prawą krawędź jezdni,
+b) lewą krawędź jezdni,
+c) pasy ruchu.
+bc

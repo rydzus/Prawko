@@ -1,0 +1,5 @@
+159. Dodawanie w zimie do oleju napędowego benzyny lub nafty:
+a) jest zalecane bez względu na konstrukcję silnika
+b) jest zabronione, jeżeli pojazd jest wyposażony  w podgrzewacz paliwa
+c) obniża krzepliwość paliwa
+bc

@@ -1,0 +1,5 @@
+84. W tej sytuacji jazda prosto tym pojazdem jest:
+a) prawidłowa, gdyż na jezdni nie ma innych pojazdów,
+b) prawidłowa, gdyż dopuszcza się zajmowanie dwóch pasów ruchu,
+c) nieprawidłowa.
+c

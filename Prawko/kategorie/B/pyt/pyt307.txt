@@ -1,0 +1,5 @@
+307. W tej sytuacji kierujący pojazdem 1 widząc wjeżdżający na skrzyżowanie z dużą prędkością pojazd 2:
+a) powinien rozpocząć hamowanie
+b) powinien zwiększyć prędkość i przejechać przed pojazdem 2
+c) kontynuuje jazdę nie podejmując żadnych czynności, gdyż ma zezwolenie na wjazd na skrzyżowanie
+a

@@ -1,0 +1,5 @@
+284. W tej sytuacji kierujący:
+a) pojazdem 1 może wyprzedzić pojazd 2
+b) pojazdami 1 i 2 powinni zmniejszyć prędkość
+c) pojazdami 1 i 2 powinni zachować szczególną ostrożność
+bc

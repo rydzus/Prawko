@@ -1,0 +1,5 @@
+443. Osoba posiadająca uprawnienie do kierowania pojazdami powinna niezwłocznie powiadomić organ wydający prawa jazdy o:
+a) zniszczeniu prawa jazdy w stopniu powodującym jego nieczytelność
+b) utracie prawa jazdy
+c) zmianie stanu faktycznego wymagającego zmiany danych zawartych w prawie jazdy
+abc

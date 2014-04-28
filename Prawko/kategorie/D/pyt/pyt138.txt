@@ -1,0 +1,5 @@
+138. Jazda na wprost trzypasową jezdnią jednokierunkową jest zabroniona:
+a) środkowym pasem ruchu, jeżeli po prawym pasie ruchu nie poruszają się pojazdy,
+b) lewym pasem ruchu, jeżeli po prawym i środkowym pasie ruchu nie poruszają się pojazdy
+c) lewym pasem ruchu, jeżeli tylko po prawym pasie ruchu poruszają się pojazdy
+abc

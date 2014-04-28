@@ -1,0 +1,5 @@
+116. Jeżeli silnik holowanego samochodu ciężarowego nie jest sprawny, to kierujący nim powinien:
+a) odłączyć hamulec postojowy, gdy w pneumatycznym układzie hamulcowym brak jest powietrza
+b) odłączyć wał napędowy przed dłuższym holowaniem
+c) uwzględnić to, że układ kierowniczy jest pozbawiony wspomagania
+abc

@@ -1,0 +1,5 @@
+264. Zamierzając jechać na wprost i widząc stojące na skrzyżowaniu pojazdy, kierujący pojazdem 1:
+a) może ustawić się tuż za nimi
+b) może wjechać na tory tramwajowe
+c) nie może wjechać na skrzyżowanie
+c

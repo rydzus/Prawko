@@ -1,0 +1,5 @@
+423. Pojazd może być usunięty z drogi na koszt właściciela, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, gdy kierujący nim:
+a) znajduje się w stanie nietrzeźwości
+b) nie posiada przy sobie dokumentów uprawniających do kierowania nim
+c) nie posiada przy sobie dokumentów uprawniających do użytkowania go
+abc

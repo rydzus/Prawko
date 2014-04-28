@@ -1,0 +1,5 @@
+66. Całkowity czas prowadzenia pojazdu przez kierowcę wykonującego przewozy drogowe (z wyjątkiem przewozów wykonywanych niektórymi pojazdami), w każdym okresie dwutygodniowym, nie może przekraczać:
+a) 90 godzin
+b) 100 godzin
+c) 90 godzin, z możliwością przedłużenia raz w miesiącu do 100 godzin
+a

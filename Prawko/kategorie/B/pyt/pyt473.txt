@@ -1,0 +1,5 @@
+473. Dokonywanie regularnych przeglądów technicznych pojazdu:
+a) jest konieczne, gdyż pozwala utrzymać pojazd we właściwej sprawności
+b) nie jest konieczne
+c) jest korzystne tylko w okresie objętym gwarancją
+a

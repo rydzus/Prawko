@@ -1,0 +1,5 @@
+58. Zatrzymywanie autobusu w odległości mniejszej niż 10 m od przedniej strony znaku lub sygnału jest:
+a) dozwolone, jeżeli autobus zasłania znak, a zatrzymanie trwa nie dłużej niż 1 minutę
+b) dozwolone, jeżeli autobus nie zasłania znaku
+c) dozwolone bez ograniczeń
+b

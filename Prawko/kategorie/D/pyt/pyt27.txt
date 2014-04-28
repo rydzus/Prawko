@@ -1,0 +1,5 @@
+27. Znak ten zabrania wjazdu autobusom:
+a) przegubowym, jeżeli nacisk osi pojedynczej jest większy od nacisku odpowiadającegomasie 5 t
+b) ciągnącym przyczepę o nacisku osi pojedynczej większym od nacisku odpowiadającego masie 5 t
+c) o nacisku osi składowych odpowiadającym masie 4 t, jeżeli wchodzą w skład osi wielokrotnej
+ab

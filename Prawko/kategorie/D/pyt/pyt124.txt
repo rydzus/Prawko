@@ -1,0 +1,5 @@
+124. Podczas hamowania autobusem posiadającym system ABS:
+a) na śliskiej nawierzchni zaleca się wyłączyć sprzęgło
+b) nie działa hamulec silnikowy, tzw. górski
+c) należy pulsacyjnie naciskać pedał hamulca roboczego, gdy koła pojazdu utracą przyczepność
+ab

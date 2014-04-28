@@ -1,0 +1,5 @@
+430. Okresowe badania stanu technicznego samochodu osobowego należy przeprowadzać:
+a) w stacji kontroli pojazdów
+b) przed upływem terminu określonego w dowodzie rejestracyjnym
+c) corocznie od dnia pierwszej rejestracji
+ab

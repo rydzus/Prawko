@@ -1,0 +1,5 @@
+55. Widząc stojącą na skrzyżowaniu kolumnę pieszych, kierujący autobusem:
+a) nie może wjechać na skrzyżowanie, jeżeli zamierza skręcić w lewo
+b) nie może wjechać na skrzyżowanie, jeżeli jedzie prosto
+c) może zatrzymać się tuż za kolumną pieszych, jeżeli skręca w lewo
+a

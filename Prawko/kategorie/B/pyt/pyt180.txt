@@ -1,0 +1,5 @@
+180. Taka postawa kierującego ruchem oznacza, że:
+a) nastąpi zmiana dotychczas nadawanego sygnału,
+b) za chwilę będzie dawany sygnał zakazujący na wjazd na skrzyżowanie,
+c) za chwilę będzie dawany sygnał zezwalający wjazdu na skrzyżowanie.
+ab

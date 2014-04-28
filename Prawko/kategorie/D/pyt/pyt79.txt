@@ -1,0 +1,5 @@
+79. Właściciel zarejestrowanego autobusu jest obowiązany zawiadomić urząd rejestrujący pojazdy o:
+a) jego kradzieży
+b) nabyciu lub zbyciu pojazdu
+c) zmianie stanu faktycznego wymagającej zmiany danych zamieszczonych w dowodzie rejestracyjnym
+bc

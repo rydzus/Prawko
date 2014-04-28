@@ -1,0 +1,5 @@
+111. Kierujący autobusem powinien:
+a) zapiąć pasy, jeżeli pojazd jest w nie wyposażony
+b) ustawić na odpowiedniej wysokości zagłówek, jeżeli fotel go posiada
+c) ustawić lusterka po ustawieniu fotela
+abc

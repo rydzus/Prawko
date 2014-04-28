@@ -1,0 +1,5 @@
+434. Stan nietrzeźwości zachodzi, gdy zawartość alkoholu:
+a) we krwi przekracza 0,5 promila
+b) w 1 dm3 wydychanego powietrza wynosi od 0,1 mg do 0,25 mg
+c) w 1 dm3 wydychanego powietrza przekracza 0,25 mg
+ac

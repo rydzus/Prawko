@@ -1,0 +1,5 @@
+498. Prawo jazdy nie może być wydane osobie:
+a) która nie osiągnęła wymaganego dla danej kategorii wieku,
+b) u której w wyniku badania lekarskiego stwierdzono aktywną formę uzależnienia od alkoholu lub środka działającego podobnie do alkoholu,
+c) która była skazana wyrokiem sądu za kradzież mienia publicznego.
+ab

@@ -1,0 +1,5 @@
+396. Widząc ten znak kierujący pojazdem:
+a) jest informowany o zbliżaniu się do wzniesienia
+b) może jechać prawym pasem ruchu z prędkością większą niż 40 km/h
+c) powinien jechać prawym pasem ruchu na całej jego długości, jeżeli nie osiąga prędkości 40 km/h
+abc

@@ -1,0 +1,5 @@
+13. Widząc ten znak kierujący autobusem:
+a) może wjechać na zwężony odcinek drogi, w zależności od szerokości pojazdu jadącego z przeciwka
+b) powinien zawsze zatrzymać się, jeżeli z przeciwka jedzie inny pojazd
+c) powinien zawsze zatrzymać się, jeżeli na zwężonym odcinku drogi znajduje się pojazd jadący z przeciwka
+a

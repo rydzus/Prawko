@@ -1,0 +1,5 @@
+94. Samochód ciężarowy o nadwoziu skrzyniowym przewożący osoby poza kabina kierowcy, powinien mieć:
+a) burty o wysokości nie mniejszej niż 1100 mm,
+b) tylną burtę zabezpieczoną przed samoczynnym lub niezamierzonym otwarciem,
+c) krótko spięte burty boczne, jeżeli są odchylane
+abc

@@ -1,0 +1,5 @@
+158. Sygnał ten dotyczy kierującego pojazdem:
+a) skręcającego w lewo,
+b) zawracającego,
+c) jadącego na wprost przez skrzyżowanie.
+a

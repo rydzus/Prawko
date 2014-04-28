@@ -1,0 +1,5 @@
+129. Jadąc po wyboistej drodze kierujący autobusem powinien:
+a) włączyć wcześniej blokadę mechanizmu różnicowego, jeżeli pojazd ją posiada
+b) unikać gwałtownych przyspieszeń i gwałtownego hamowania
+c) wcześniej włączyć odpowiednio niski bieg
+bc

@@ -1,0 +1,5 @@
+151. Układ zasilania silnika o zapłonie samoczynnym powinien być odpowietrzony, jeżeli:
+a) zbiornik paliwa został całkowicie opróżniony
+b) silnik nie był uruchamiany przez dłuższy czas
+c) dokonano wymiany filtru paliwa
+abc

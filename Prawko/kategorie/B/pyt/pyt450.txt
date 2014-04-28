@@ -1,0 +1,5 @@
+450. Kierujący samochodem osobowym, jadąc drogą pokrytą śniegiem lub lodem, może spodziewać się, że:
+a) pojazd nie będzie reagował na ruchy kierownicą
+b) gwałtowne hamowanie spowoduje poślizg
+c) gwałtowne zwiększenie obrotów silnika spowoduje poślizg
+abc

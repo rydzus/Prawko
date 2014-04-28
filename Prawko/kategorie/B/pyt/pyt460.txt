@@ -1,0 +1,5 @@
+460. Ekonomiczna jazda samochodem osobowym to:
+a) unikanie gwałtownych przyspieszeń i hamowań
+b) utrzymywanie za wszelką cenę stałej prędkości przy jeździe pod górę
+c) jazda na możliwie najwyższym biegu bez przeciążania silnika
+ac

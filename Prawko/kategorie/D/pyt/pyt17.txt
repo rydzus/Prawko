@@ -1,0 +1,5 @@
+17. Znak ten informuje kierującego autobusem o:
+a) początku drogi jednokierunkowej
+b) końcu drogi dwujezdniowej
+c) końcu pasa ruchu powolnego
+c

@@ -1,0 +1,5 @@
+320. W tej sytuacji postój uszkodzonego samochodu osobowego można sygnalizować przez:
+a) włączenie świateł awaryjnych i umieszczenie w odległości 30-50 m za pojazdem ostrzegawczego trójkąta odblaskowego
+b) włączenie świateł awaryjnych, bez umieszczania za pojazdem ostrzegawczego trójkąta odblaskowego
+c) umieszczenie w odległości 30-50 m za pojazdem ostrzegawczego trójkąta odblaskowego, bez włączania świateł awaryjnych lub pozycyjnych
+a

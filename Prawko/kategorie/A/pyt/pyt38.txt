@@ -1,0 +1,5 @@
+38. Policjant zatrzyma dowód rejestracyjny w razie uzasadnionego przypuszczenia, że:
+a) dane w nim zawarte nie odpowiadają stanowi faktycznemu
+b) motocykl zagraża bezpieczeństwu lub narusza wymagania ochrony środowiska
+c) kierujący motocyklem jest w stanie po użyciu alkoholu
+ab

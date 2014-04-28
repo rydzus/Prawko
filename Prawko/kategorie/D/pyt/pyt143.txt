@@ -1,0 +1,5 @@
+143. Przyczyną utrudnionego rozruchu silnika o zapłonie samoczynnym może być:
+a) zbyt niskie ciśnienie sprężania
+b) nieszczelność układu zasilania
+c) zerwany pasek napędu alternatora
+ab

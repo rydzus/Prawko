@@ -1,0 +1,5 @@
+263. Skręcając w lewo na tym skrzyżowaniu, kierujący pojazdem 1:
+a) może wjechać na tory tramwajowe
+b) powinien oczekiwać na możliwość przejazdu przed torami tramwajowymi
+c) powinien zatrzymać pojazd tak, aby zachować bezpieczny odstęp od nadjeżdżającego tramwaju
+bc

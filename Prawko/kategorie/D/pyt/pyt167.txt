@@ -1,0 +1,5 @@
+167. Kierujący autobusem powinien okresowo sprawdzać:
+a) stan wyjść awaryjnych
+b) prawidłowość zamocowania siedzeń pasażerów
+c) stan naładowania akumulatorów
+abc

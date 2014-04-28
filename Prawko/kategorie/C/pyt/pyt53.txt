@@ -1,0 +1,5 @@
+53. Zabroniony jest na obszarze zabudowanym, poza wyznaczonymi parkingami postój:
+a) pojazdów o dopuszczalnej masie całkowitej przekraczającej 16 t
+b) zespołu pojazdów o długości przekraczającej 12 m
+c) zespołu pojazdów o dopuszczalnej masie całkowitej przekraczającej 16 t
+abc

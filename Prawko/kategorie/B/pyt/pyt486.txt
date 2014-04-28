@@ -1,0 +1,5 @@
+486. Pojazd zostanie zakwalifikowany jako nadmiernie uciążliwy dla środowiska, jeżeli:
+a) zawartość spalin jest nieprawidłowa
+b) powoduje zbyt duży hałas
+c) z pojazdu wyciekają różne płyny
+abc

@@ -1,0 +1,5 @@
+331. Kierujący pojazdem może używać świateł do jazdy dziennej:
+a) w czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza
+b) razem ze światłami mijania
+c) w nocy
+a

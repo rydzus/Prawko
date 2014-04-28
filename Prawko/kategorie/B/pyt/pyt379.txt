@@ -1,0 +1,5 @@
+379. Kierujący samochodem osobowym powinien zachować w czasie jazdy odstęp od poprzedzającego pojazdu:
+a) dostosowany do prędkości jazdy
+b) zawsze od 5 do 10 m
+c) niezbędny do uniknięcia zderzenia w razie hamowania tego pojazdu
+ac

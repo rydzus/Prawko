@@ -1,0 +1,5 @@
+114. Jazda samochodem ciężarowym przy zimnym silniku:
+a) jest zalecana
+b) nie jest zalecana na wysokich obrotach
+c) może być powodem nadmiernego dymienia
+bc

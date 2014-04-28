@@ -1,0 +1,5 @@
+171. Sygnały te są przeznaczone dla:
+a) rowerzystów,
+b) kierujących tramwajami,
+c) kierujących autobusami wykonującymi odpłatny przewóz osób na regularnych liniach.
+abc

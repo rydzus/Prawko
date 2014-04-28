@@ -1,0 +1,5 @@
+73. Rzeczywista masa całkowita przyczepy ciągniętej przez autobus:
+a) nie może przekroczyć rzeczywistej masy całkowitej autobusu pomniejszonej o 40%
+b) może przekroczyć rzeczywistą masę całkowitą autobusu nie więcej niż o 40%
+c) nie może przekroczyć rzeczywistej masy całkowitej autobusu
+c

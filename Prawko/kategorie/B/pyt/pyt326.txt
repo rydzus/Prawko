@@ -1,0 +1,5 @@
+326. Kierujący samochodem osobowym jest zobowiązany podczas jazdy w czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza używać świateł mijania lub świateł do jazdy dziennej:
+a) przez cały rok
+b) wyłącznie poza obszarem zabudowanym,
+c) w tunelu
+ac

@@ -1,0 +1,5 @@
+59. Obsługa łańcucha napędowego polega na:
+a) regulacji naciągu
+b) okresowym smarowaniu go
+c) wymianie po przebiegu 5000 km
+ab

@@ -1,0 +1,5 @@
+65. Maksymalny czas prowadzenia pojazdu przez kierowcę wykonującego przewozy drogowe (z wyjątkiem przewozów wykonywanych niektórymi pojazdami) między okresem dziennego i tygodniowego odpoczynku, nie może przekroczyć:
+a) 9 godzin, z możliwością przedłużenia do 10 godzin, nie więcej niż dwukrotnie w każdym tygodniu
+b) 9 godzin, bez możliwości przedłużenia
+c) 8 godzin
+a

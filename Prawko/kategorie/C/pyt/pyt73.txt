@@ -1,0 +1,5 @@
+73. Dodatkowemu badaniu technicznemu podlega samochód ciężarowy o dopuszczalnej masie całkowitej przekraczającej 3,5 t:
+a) skierowany przez organ kontroli ruchu
+b) który ma być używany do przewozu materiałów niebezpiecznych
+c) który ma być używany do przewozu osób poza kabiną kierowcy
+ab

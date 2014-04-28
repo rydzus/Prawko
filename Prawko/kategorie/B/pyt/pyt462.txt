@@ -1,0 +1,5 @@
+462. W czasie jazdy na niebezpiecznym zakręcie w lewo ze zbyt dużą prędkością, kierujący samochodem osobowym może spodziewać się:
+a) znoszenia pojazdu do osi jezdni
+b) znoszenia tyłu pojazdu w prawo
+c) wpadnięcia w poślizg przy gwałtownym hamowaniu
+bc

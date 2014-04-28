@@ -1,0 +1,5 @@
+100. Autobus powinien być wyposażony w:
+a) ostrzegawczy trójkąt odblaskowy
+b) apteczkę doraźnej pomocy, jeżeli nie jest autobusem miejskim
+c) lusterka zewnętrzne z lewej i z prawej strony
+abc

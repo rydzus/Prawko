@@ -1,0 +1,5 @@
+424. Kierującemu samochodem osobowym nie wolno:
+a) umieszczać w pojeździe urządzenia wysyłającego sygnał dźwiękowy o zmiennym tonie
+b) korzystać podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku
+c) wyposażać pojazdu w urządzenie informujące o działaniu sprzętu kontrolno-pomiarowego używanego przez organy kontroli ruchu drogowego
+abc

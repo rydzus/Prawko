@@ -1,0 +1,5 @@
+510. Na miejscu parkingowym oznaczonym tym znakiem mogą parkować:
+a) autobusy szkolne,
+b) pojazdy przewożące osoby niepełnosprawne o obniżonej sprawności ruchowej,
+c) wszelkie pojazdy od zmierzchu do świtu.
+b

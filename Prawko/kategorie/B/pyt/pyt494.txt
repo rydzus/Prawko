@@ -1,0 +1,5 @@
+494. Korzystanie z telefonu komórkowego podczas kierowania pojazdem jest:
+a) zabronione, jeżeli wymaga trzymania słuchawki lub mikrofonu w ręku,
+b) dozwolone bez ograniczeń,
+c) dozwolone, jeżeli nie wymaga trzymania słuchawki lub mikrofonu w ręku.
+ac

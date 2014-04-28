@@ -1,0 +1,5 @@
+72. Okresowe badanie techniczne samochodu ciężarowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t przeprowadza się:
+a) co 6 miesięcy, jeżeli pojazd jest używany do przewozu materiałów niebezpiecznych
+b) przed upływem 3 lat od dnia pierwszej rejestracji, a następnie corocznie
+c) corocznie
+c

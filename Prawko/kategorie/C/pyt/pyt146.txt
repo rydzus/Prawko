@@ -1,0 +1,5 @@
+146. Poziom oleju w silniku zaleca się mierzyć:
+a) bezpośrednio po unieruchomieniu silnika
+b) przed uruchomieniem zimnego silnika
+c) po upływie co najmniej 8 godzin od unieruchomienia silnika
+b

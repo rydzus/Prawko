@@ -1,0 +1,5 @@
+526. W tej sytuacji kierujący pojazdem może:
+a) zawrócić za skrzyżowaniem,
+b) skręcić w lewo przed skrzyżowaniem,
+c) skręcić w lewo na skrzyżowaniu.
+abc

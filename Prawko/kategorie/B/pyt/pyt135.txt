@@ -1,0 +1,5 @@
+135. Po tym sygnale zapali się sygnał:
+a) zielony,
+b) czerwony,
+c) czerwony i żółty.
+b

@@ -1,0 +1,5 @@
+492. Kolejka turystyczna to zespół pojazdów składający się z:
+a) autobusu oraz przyczepy (przyczep) dostosowanej do przewozu osób,
+b) ciągnika rolniczego, którego konstrukcja ogranicza prędkość do 25 km/h oraz przyczepy (przyczep) dostosowanej do przewozu osób,
+c) pojazdu wolnobieżnego oraz przyczepy (przyczep) dostosowanej do przewozu osób.
+bc

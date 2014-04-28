@@ -1,0 +1,5 @@
+455. W tej sytuacji kierujący pojazdem jadący na wprost:
+a) narusza przepisy ruchu drogowego,
+b) zjeżdżając na środkowy pas ruchu, będzie jechał zgodnie z przepisami ruchu drogowego,
+c) powinien zjechać na prawy pas ruchu. 
+ac

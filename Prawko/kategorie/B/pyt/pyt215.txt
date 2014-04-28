@@ -1,0 +1,5 @@
+215. Na tym skrzyżowaniu kierujący pojazdem 1:
+a) ma pierwszeństwo przed pojazdem 2
+b) ustępuje pierwszeństwa pojazdowi 3
+c) ma pierwszeństwo przed pojazdem 4
+b

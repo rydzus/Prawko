@@ -1,0 +1,5 @@
+245. Który pojazd jest w tej sytuacji zaparkowany prawidłowo?
+a) - 3,
+b) - 2,
+c) - 1.
+a

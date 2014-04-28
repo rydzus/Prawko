@@ -1,0 +1,5 @@
+138. W tej sytuacji, zatrzymanie pojazdu powinno nastąpić bezpośrednio przed:
+a) przejściem dla pieszych,
+b) linią zatrzymania,
+c) sygnalizatorem.
+b

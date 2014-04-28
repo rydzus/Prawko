@@ -1,0 +1,5 @@
+155. W tej sytuacji kierujący pojazdem:
+a) może jechać na wprost przez skrzyżowanie,
+b) może skręcić w lewo po zatrzymaniu się przed sygnalizatorem i upewnieniu, że nie utrudni ruchu,
+c) powinien zatrzymać się i oczekiwać na sygnał zielony, jeżeli zamierza skręcić w lewo.
+b

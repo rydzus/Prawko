@@ -1,0 +1,5 @@
+105. Ta linia zatrzymania:
+a) zabrania wjazdu na skrzyżowanie,
+b) wskazuje miejsce zatrzymania pojazdu,
+c) zezwala na kontynuowanie jazdy bez zatrzymania pojazdu, jeżeli do skrzyżowania nie zbliżają się inne pojazdy.
+b

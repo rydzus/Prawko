@@ -1,0 +1,5 @@
+45. W tej sytuacji kierujący autobusem może wyprzedzić:
+a) pojazd jednośladowy 1
+b) pojazd zaprzęgowy 2
+c) samochód ciężarowy 3
+ab

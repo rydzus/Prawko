@@ -1,0 +1,5 @@
+108. Ta linia zatrzymania:
+a) wskazuje miejsce zatrzymania pojazdu przed przejściem dla pieszych,
+b) zezwala na zatrzymanie pojazdu częściowo za nią,
+c) uprzedza o wjeździe na drogę podporządkowaną.
+a

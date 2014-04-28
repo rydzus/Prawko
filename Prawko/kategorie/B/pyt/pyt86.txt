@@ -1,0 +1,5 @@
+86. Znak ten (linia podwójna ciągła):
+a) rozdziela pasy ruchu na drodze jednokierunkowej,
+b) rozdziela pasy ruchu o przeciwnych kierunkach ruchu,
+c) zezwala na przejeżdżanie przez tę linię przy wyprzedzaniu pojazdów.
+b

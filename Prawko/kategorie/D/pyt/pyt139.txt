@@ -1,0 +1,5 @@
+139. Ekonomiczna eksploatacja autobusu polega na:
+a) odpowiednim do obciążenia i prędkości jazdy doborze przełożeń w skrzyni biegów
+b) utrzymywaniu obrotów silnika w zakresie średnich i niskich prędkości
+c) wyłączaniu silnika przy dłuższych postojach
+abc

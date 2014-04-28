@@ -1,0 +1,5 @@
+384. Widząc ten znak kierujący pojazdem:
+a) może spodziewać się oszronienia jezdni
+b) powinien spodziewać się lokalnie występujących opadów śniegu
+c) powinien być przygotowany do zmiany przyczepności kół do jezdni
+ac

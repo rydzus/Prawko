@@ -1,0 +1,5 @@
+420. Kierujący samochodem osobowym może przewozić osoby w liczbie:
+a) nie przekraczającej liczby miejsc określonych  w dowodzie rejestracyjnym
+b) większej o jeden od liczby miejsc określonych w dowodzie rejestracyjnym
+c) niezależnej od liczby miejsc określonych w dowodzie rejestracyjnym
+a

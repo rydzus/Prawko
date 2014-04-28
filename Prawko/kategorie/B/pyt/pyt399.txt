@@ -1,0 +1,5 @@
+399. W miejscu oznaczonym tym znakiem można zaparkować pojazd:
+a) czterema kołami na chodniku prostopadle do krawężnika
+b) czterema kołami na jezdni prostopadle do krawężnika
+c) tylko bezpośrednio przy krawędzi jezdni
+ac

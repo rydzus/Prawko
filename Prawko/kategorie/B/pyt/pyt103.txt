@@ -1,0 +1,5 @@
+103. Ta linia zatrzymania:
+a) zezwala na przejazd przez skrzyżowanie bez zatrzymania pojazdu,
+b) zezwala na zatrzymanie pojazdu częściowo za nią,
+c) wskazuje miejsce zatrzymania pojazdu.
+c

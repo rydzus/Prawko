@@ -1,0 +1,5 @@
+101. Autobus o długości nie przekraczającej 6 m powinien być wyposażony w:
+a) dwie gaśnice
+b) wyjście awaryjne
+c) lusterko wewnętrzne zapewniające kierowcy widoczność wnętrza autobusu
+c

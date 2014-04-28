@@ -1,0 +1,5 @@
+78. Które tablice mogą być umieszczone z tyłu przyczepy ciągniętej przez samochód ciężarowy, jeżeli długość tego zespołu przekracza 8 m?
+a) A
+b) B
+c) C
+c

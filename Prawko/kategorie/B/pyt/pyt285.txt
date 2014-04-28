@@ -1,0 +1,5 @@
+285. W tej sytuacji kierujący pojazdem 1:
+a) powinien zatrzymać pojazd przed przejściem dla pieszych
+b) może przejechać przez przejście dla pieszych z zachowaniem szczególnej ostrożności
+c) może przejechać przez przejście dla pieszych, jeżeli pojazd 2 zaczyna ruszać
+a

@@ -1,0 +1,5 @@
+166. Sygnał ten oznacza:
+a) zezwolenie na skręcenie w prawo,
+b) że podczas skręcania w prawo nie występuje kolizja z innymi uczestnikami ruchu,
+c) zezwolenie na jazdę na wprost przez skrzyżowanie.
+abc

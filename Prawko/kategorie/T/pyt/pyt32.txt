@@ -1,0 +1,5 @@
+32. Ładunek przewożony w przyczepie ciągniętej przez ciągnik rolniczy nie może powodować przekroczenia:
+a) dopuszczalnej masy całkowitej przyczepy
+b) dopuszczalnej ładowności przyczepy
+c) dopuszczalnego nacisku osi przyczepy na drogę
+abc

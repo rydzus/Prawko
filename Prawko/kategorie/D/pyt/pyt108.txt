@@ -1,0 +1,5 @@
+108. Autobus powinien być wyposażony w:
+a) akustyczny sygnał ostrzegający o cofaniu pojazdu
+b) urządzenie służące do dawania sygnałów z wnętrza autobusu do kierowcy, jeżeli znajduje się on w oddzielnym pomieszczeniu
+c) światło przeznaczone do oświetlania wejścia lub wyjścia
+b

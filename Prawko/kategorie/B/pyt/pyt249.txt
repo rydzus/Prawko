@@ -1,0 +1,5 @@
+249. W tej sytuacji kierujący pojazdem może skręcić w:
+a) lewo z pasa 1
+b) lewo z pasa 2
+c) prawo z pasa 3
+ac

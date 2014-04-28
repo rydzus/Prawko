@@ -1,0 +1,5 @@
+317. Postój uszkodzonego pojazdu silnikowego należy sygnalizować:
+a) na autostradach lub drogach ekspresowych - tylko w razie postoju na jezdni
+b) na autostradach - w każdym przypadku
+c) na drogach ekspresowych - w każdym przypadku
+bc

@@ -1,0 +1,5 @@
+448. Pas bezpieczeństwa jest zapięty prawidłowo, gdy:
+a) nie jest skręcony
+b) ma właściwy naciąg
+c) jego część obojczykowa znajduje się możliwie blisko szyi, ale bezpośrednio się z nią nie styka
+abc

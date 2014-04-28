@@ -1,0 +1,5 @@
+95. Drzwi autobusu:
+a) mogą być otwarte w czasie upałów, niezależnie od liczby przewożonych pasażerów
+b) powinny zostać zamknięte przed ruszeniem z przystanku
+c) w czasie jazdy nie powinny być zablokowane bagażami w sposób uniemożliwiający ich otwarcie
+bc

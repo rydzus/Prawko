@@ -1,0 +1,5 @@
+503. Znak ten:
+a) oznacza bezwzględny zakaz używania sygnału dźwiękowego,
+b) dopuszcza uźycie sygnału dźwiękowego na obszarze zabudowanym w celu ostrzeżenia o bezpośrednim zagrożeniu bezpieczeństwa ruchu drogowego,
+c) obowiązuje od zmierzchu do świtu.
+b

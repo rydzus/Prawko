@@ -1,0 +1,5 @@
+487. Przystępując do wymiany przedniego koła w samochodzie osobowym należy:
+a) ustawić podnośnik na twardym podłożu
+b) zaciągnąć hamulec awaryjny i włączyć bieg
+c) najpierw podnieść pojazd, a następnie odkręcić śruby mocujące koło
+ab

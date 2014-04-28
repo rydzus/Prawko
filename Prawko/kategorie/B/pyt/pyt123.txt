@@ -1,0 +1,5 @@
+123. W tej sytuacji:
+a) obowiązują pasy ruchu wyznaczone liniami barwy białej,
+b) obowiązują pasy ruchu wyznaczone liniami barwy żółtej,
+c) pasy ruchu nie są wyznaczone.
+b

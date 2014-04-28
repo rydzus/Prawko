@@ -1,0 +1,5 @@
+293. W tej sytuacji kierujący pojazdem:
+a) powinien zatrzymać pojazd przed przejazdem
+b) może przejechać przez przejazd bez zatrzymania, jeżeli upewnił się, że nie zbliża się pociąg
+c) może nie upewniać się, czy nadjeżdża pociąg, gdyż przejazd strzeżony jest przez dróżnika
+a

@@ -1,0 +1,5 @@
+79. Tablice te umieszczone z tyłu na pojeździe oznaczają:
+a) pojedynczy pojazd samochodowy
+b) zespół pojazdów
+c) pojazd przewożący materiały niebezpieczne
+b

@@ -1,0 +1,5 @@
+102. Autobus o długości przekraczającej 6 m powinien być wyposażony w:
+a) dwie gaśnice umieszczone w tylnej części autobusu
+b) wyjścia awaryjne w liczbie zależnej od liczby miejsc dla pasażerów
+c) zasłonę za miejscem kierowcy
+bc

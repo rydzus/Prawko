@@ -1,0 +1,5 @@
+144. Przed rozpoczęciem jazdy kierujący samochodem ciężarowym powinien:
+a) sprawdzić ciśnienie w układzie hamulca pneumatycznego
+b) sprawdzić, czy po uruchomieniu silnika lampki kontrolne ładowania akumulatora i ciśnienia oleju przestały świecić
+c) upewnić się, że w pobliżu nie znajdują się żadne przedmioty, które mogłyby utrudnić kierowanie pojazdem
+abc

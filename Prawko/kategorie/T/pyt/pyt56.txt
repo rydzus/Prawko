@@ -1,0 +1,5 @@
+56. Ciągnik rolniczy zostanie zakwalifikowany jako nadmiernie uciążliwy dla środowiska, jeżeli:
+a) zawartość spalin jest nieprawidłowa
+b) ma uszkodzone światła zewnętrzne
+c) powoduje nadmierny hałas i z ciągnika wyciekają różne płyny
+ac

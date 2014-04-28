@@ -1,0 +1,5 @@
+272. W tej sytuacji przy dojeżdżaniu do wierzchołka wzniesienia kierujący pojazdem 1:
+a) może wyprzedzić pojazd 2 z prawej strony
+b) może wyprzedzić pojazd 2 z lewej strony
+c) powinien włączyć kierunkowskaz, jeżeli zamierza zmienić pas ruchu
+bc

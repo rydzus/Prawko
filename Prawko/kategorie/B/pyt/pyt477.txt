@@ -1,0 +1,5 @@
+477. Która z tych lampek kontrolnych po zaświeceniu w czasie jazdy może informować o wadliwym działaniu układu hamulcowego?
+a) A
+b) B
+c) C
+a

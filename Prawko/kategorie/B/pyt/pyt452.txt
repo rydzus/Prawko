@@ -1,0 +1,5 @@
+452. Przy ruszaniu pod górę, zbyt późne zwolnienie pedału sprzęgła w stosunku do zwolnienia hamulca może spowodować:
+a) stoczenie się pojazdu
+b) unieruchomienie silnika
+c) gwałtowne ruszenie pojazdu do przodu
+a

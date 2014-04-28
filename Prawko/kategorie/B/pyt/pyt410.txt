@@ -1,0 +1,5 @@
+410. Pojazd może zostać usunięty z drogi, gdy:
+a) jest pozostawiony bez tablic rejestracyjnych
+b) jego stan wskazuje, że nie jest używany
+c) jego stan techniczny zagraża bezpieczeństwu ruchu drogowego i nie ma możliwości zabezpieczenia go w inny sposób
+abc

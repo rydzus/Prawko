@@ -1,0 +1,5 @@
+150. Te dwa na przemian migające sygnały czerwone
+a) zezwalają na wjazd za sygnalizator, jeżeli do przejazdu nie zbliża się pociąg,
+b) zabraniają wjazdu za sygnalizator,
+c) oznaczają uszkodzoną sygnalizację świetlną.
+b

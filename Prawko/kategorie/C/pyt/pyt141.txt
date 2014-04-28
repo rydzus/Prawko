@@ -1,0 +1,5 @@
+141. W trakcie eksploatacji samochodu ciężarowego należy przestrzegać zaleceń podanych przez producenta w instrukcji obsługi pojazdu:
+a) w zakresie wymienianych materiałów eksploatacyjnych
+b) w zakresie wymienianych mechanizmów pojazdu
+c) tylko przy dokonywaniu okresowych przeglądów pojazdu
+ab

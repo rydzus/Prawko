@@ -1,0 +1,5 @@
+454. W tej sytuacji, kierujący samochodem osobowym powinien:
+a) zatrzymać się tuż za znakiem, oczekując na możliwość wjazdu na pas 2,
+b) wykorzystać odcinek pasa 1 do zmiany pasa na 2,
+c) dojechać do końca pasa 1 i oczekiwać na możliwość wjazdu na pas 2. 
+b

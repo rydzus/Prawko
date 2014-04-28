@@ -1,0 +1,5 @@
+136. Sygnał ten oznacza:
+a) zakaz wjazdu za sygnalizator, chyba że pojazd nie może być zatrzymany przed nim bez gwałtownego hamowania,
+b) zezwolenie na wjazd za sygnalizator,
+c) że za chwilę zapali się sygnał czerwony.
+ac

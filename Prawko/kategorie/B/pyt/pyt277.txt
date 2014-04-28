@@ -1,0 +1,5 @@
+277. W tej sytuacji kierujący pojazdem:
+a) 1 powinien zachować szczególną ostrożność
+b) 1 może wyprzedzić pojazd 2
+c) 2 powinien uważnie obserwować sytuację na skrzyżowaniu
+ac

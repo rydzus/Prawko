@@ -1,0 +1,5 @@
+42. Pokonując zakręt motocyklem, kierujący i pasażer powinni:
+a) utrzymywać ten sam kąt nachylenia co motocykl
+b) odchylić się przeciwnie do pochylenia motocykla
+c) odchylić się o większy kąt niż pochylenie motocykla, niezależnie od prędkości
+a

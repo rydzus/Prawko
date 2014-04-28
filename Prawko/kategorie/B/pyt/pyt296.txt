@@ -1,0 +1,5 @@
+296. Widząc ten znak kierujący pojazdem:
+a) powinien zatrzymać pojazd przed znakiem
+b) może nie zatrzymywać pojazdu, jeżeli przy znaku nie ma dróżnika
+c) może zatrzymać pojazd za znakiem, bezpośrednio przed torem kolejowym
+a

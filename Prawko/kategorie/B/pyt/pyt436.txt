@@ -1,0 +1,5 @@
+436. Z odbycia dodatkowego przeszkolenia, w celu zmniejszenia liczby punktów uzyskanych za naruszenie przepisów ruchu drogowego, może skorzystać:
+a) każdy kierowca
+b) kierowca w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy
+c) kierowca w okresie przekraczającym 1 rok od dnia wydania po raz pierwszy prawa jazdy
+c

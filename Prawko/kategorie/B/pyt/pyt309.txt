@@ -1,0 +1,5 @@
+309. W tej sytuacji kierujący pojazdem widząc zataczającego się na drodze pieszego powinien:
+a) być przygotowany do zatrzymania pojazdu
+b) założyć, że pieszy może nie stosować się do przepisów ruchu drogowego
+c) założyć, że pieszy nie wejdzie na jezdnię
+ab

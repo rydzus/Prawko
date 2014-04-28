@@ -1,0 +1,5 @@
+131. Podczas skręcania autobusem przegubowym:
+a) tył pojazdu przemieszcza się po większym promieniu niż przód
+b) tył pojazdu przemieszcza się po mniejszym promieniu niż przód
+c) kierujący nim powinien uważać, aby tył pojazdu nie wjechał na sąsiedni pas ruchu
+ac

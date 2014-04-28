@@ -1,0 +1,5 @@
+165. Sygnał ten dotyczy kierującego pojazdem:
+a) jadącego w dowolnym kierunku przez skrzyżowanie,
+b) jadącego na wprost przez skrzyżowanie,
+c) skręcającego w prawo.
+b

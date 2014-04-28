@@ -1,0 +1,5 @@
+77. Tablicę tę umieszcza się:
+a) z tyłu samochodu ciężarowego, którego dopuszczalna masa całkowita przekracza 12 t
+b) z tyłu przyczepy, która łącznie z pojazdem samochodowym tworzy zespół o długości przekraczającej 8 m
+c) symetrycznie do osi podłużnej pojazdu
+ac

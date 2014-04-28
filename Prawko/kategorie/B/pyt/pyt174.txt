@@ -1,0 +1,5 @@
+174. Taka postawa kierującego ruchem oznacza, że wjazd na skrzyżowanie jest:
+a) zabroniony, z wyjątkiem skręcenia w prawo,
+b) dozwolony,
+c) dozwolony, z wyjątkiem skręcenia w prawo.
+b

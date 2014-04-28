@@ -1,0 +1,5 @@
+364. Za tym znakiem:
+a) dopuszczalna prędkość samochodu osobowego wynosi 20 km/h
+b) zabrania się postoju w innym miejscu niż wyznaczone w tym celu
+c) pieszy może korzystać z całej szerokości drogi
+abc

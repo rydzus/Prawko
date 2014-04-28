@@ -1,0 +1,5 @@
+132. Aby zatrzymać jadący z dużą prędkością samochód ciężarowy wyposażony w pneumatyczny układ hamulcowy, kierujący powinien:
+a) wcisnąć pedał sprzęgła, a następnie wcisnąć pedał hamulca
+b) na przemian wciskać i zwalniać pedał hamulca, a pedał sprzęgła wcisnąć w ostatniej fazie hamowania
+c) wcisnąć równocześnie pedały hamulca i sprzęgła
+b

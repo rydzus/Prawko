@@ -1,0 +1,5 @@
+299. Kierującemu pojazdem nie wolno wjechać na przejazd kolejowy, jeżeli:
+a) opuszczanie zapór zostało rozpoczęte
+b) podnoszenie zapór nie zostało zakończone
+c) po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy
+abc

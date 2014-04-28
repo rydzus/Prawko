@@ -1,0 +1,5 @@
+169. Sygnał ten oznacza nakaz:
+a) opuszczenia pasa ruchu, nad którym umieszczony jest nadający go sygnalizator,
+b) skręcenia w lewo na najbliższym skrzyżowaniu,
+c) wjazdu na lewą część jezdni.
+ac

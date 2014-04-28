@@ -1,0 +1,5 @@
+459. Wyjazd samochodem osobowym z grząskiego śniegu można ułatwić sobie przez:
+a) kilkakrotne, przemienne cofanie i jazdę do przodu
+b) ruszanie na dużych obrotach silnika
+c) obniżenie ciśnienia powietrza w oponach
+ac

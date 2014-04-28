@@ -1,0 +1,5 @@
+340. Pojazd może być pozostawiony w nocy bez oświetlenia:
+a) w miejscu znajdującym się poza drogą
+b) na poboczu nieoświetlonej drogi
+c) na chodniku
+ac

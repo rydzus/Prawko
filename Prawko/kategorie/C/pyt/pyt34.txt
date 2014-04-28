@@ -1,0 +1,5 @@
+34. W tej sytuacji kierujący:
+a) pojazdem 1 powinien zjechać w prawo
+b) pojazdem 2 powinien zjechać w prawo
+c) pojazdami 1 i 2 powinni zmniejszyć prędkość
+abc

@@ -1,0 +1,5 @@
+185. Stosunek uciśnięć mostka do ilości sztucznych oddechów u poszkodowanych wynosi:
+a) 30:2
+b) 2:30
+c) 1:5
+a

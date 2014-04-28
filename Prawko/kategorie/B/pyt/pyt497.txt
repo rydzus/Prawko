@@ -1,0 +1,5 @@
+497. Polskie krajowe prawo jazdy:
+a) może być wystawione z bezterminową datą ważności,
+b) jest wystawiane zawsze na okres tylko 10 lat,
+c) jest wydawane przez organ właściwy ze względu na miejsce zamieszkania.
+ac

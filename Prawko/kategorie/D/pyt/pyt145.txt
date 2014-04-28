@@ -1,0 +1,5 @@
+145. Świecenie się tej lampki kontrolnej podczas pracy silnika oznacza, że urządzenie podgrzewające paliwo jest:
+a) uszkodzone
+b) sprawne
+c) sprawne, lecz silnik pracuje na zbyt niskich obrotach
+a

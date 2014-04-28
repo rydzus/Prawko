@@ -1,0 +1,5 @@
+104. Autobus nie może być wyposażony w opony:
+a) o różnej konstrukcji na kołach jednej osi
+b) których wskaźniki pokazują graniczne zużycie bieżnika
+c) diagonalne z opasaniem na kołach przedniej osi
+ab

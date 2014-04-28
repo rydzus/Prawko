@@ -1,0 +1,5 @@
+431. Samochód osobowy podlega dodatkowemu badaniu technicznemu:
+a) na wniosek Policji w razie uzasadnionego przypuszczenia, że zagraża bezpieczeństwu ruchu lub narusza wymagania ochrony środowiska
+b) w przypadku montażu instalacji do zasilania gazem
+c) przy każdej zmianie właściciela
+a

@@ -1,0 +1,5 @@
+52. Pojazd zostanie usunięty z drogi, jeżeli stoi za tym znakiem na:
+a) jezdni,
+b) chodniku,
+c) częściowo na jezdni i chodniku.
+abc

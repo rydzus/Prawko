@@ -1,0 +1,5 @@
+239. Na tym skrzyżowaniu kierujący pojazdem 1:
+a) przejeżdża pierwszy
+b) ustępuje pierwszeństwa pojazdowi 2
+c) ustępuje pierwszeństwa pojazdowi 3
+bc

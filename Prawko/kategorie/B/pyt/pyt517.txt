@@ -1,0 +1,5 @@
+517. W przypadku zatrzymania pojazdu przez policjanta do kontroli, kierujący:
+a) powinien wysiąść z pojazdu i podejść do zatrzymującego go policjanta,
+b) nie powinien wysiadać z pojazdu i oczekiwać na podejście policjanta,
+c) powinien stanąć w odległości 1 metra od pojazdu.
+b

@@ -1,0 +1,5 @@
+138. Przed osadzeniem naczepy na pojeździe silnikowym kierujący powinien sprawdzić, czy:
+a) czop zaczepu nie jest zużyty lub uszkodzony
+b) zachowany będzie odpowiedni odstęp pomiędzy kabiną kierowcy a naczepą
+c) opony na kołach jednej osi naczepy posiadają tę samą rzeźbę bieżnika
+abc

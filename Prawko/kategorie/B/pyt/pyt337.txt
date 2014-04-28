@@ -1,0 +1,5 @@
+337. Podczas postoju na jezdni w warunkach niedostatecznej widoczności, kierujący pojazdem silnikowym:
+a) może nie włączać świateł zewnętrznych pojazdu
+b) może używać świateł postojowych jedynie od strony środka jezdni
+c) powinien używać świateł pozycyjnych przednich i tylnych lub świateł postojowych
+bc

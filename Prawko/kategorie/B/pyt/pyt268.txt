@@ -1,0 +1,5 @@
+268. Podczas wyprzedzania kierujący pojazdem powinien zachować odstęp:
+a) bezpieczny - od wyprzedzanego samochodu ciężarowego
+b) co najmniej 1 m - od wyprzedzanej kolumny pieszych
+c) co najmniej 1 m - od wyprzedzanego pojazdu jednośladowego
+abc

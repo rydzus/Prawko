@@ -1,0 +1,5 @@
+190. Przy podejrzeniu złamania kończyny należy unieruchomić:
+a) wyłącznie najbliższy złamaniu staw
+b) jedynie samo miejsce złamania
+c) miejsce złamania i najbliższe stawy
+c

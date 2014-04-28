@@ -1,0 +1,5 @@
+120. Na powierzchni jezdni oznaczonej tym znakiem:
+a) zabronione jest zatrzymanie tego pojazdu,
+b) zabroniony jest postój tego pojazdu,
+c) wyznaczone jest miejsce przystanku, np.  autobusu.
+abc

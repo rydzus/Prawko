@@ -1,0 +1,5 @@
+270. Na drogach dwukierunkowych o dwóch pasach ruchu wyprzedzanie pojazdu silnikowego jest zabronione:
+a) przy dojeżdżaniu do wierzchołków wzniesień
+b) na zakrętach oznaczonych znakami ostrzegawczymi
+c) na mostach i wiaduktach
+ab

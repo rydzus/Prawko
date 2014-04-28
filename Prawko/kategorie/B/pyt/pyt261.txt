@@ -1,0 +1,5 @@
+261. W tej sytuacji kierujący pojazdem 1:
+a) powinien zachować szczególną ostrożność
+b) powinien używać sygnału dźwiękowego,
+c) ma pierwszeństwo przed pojazdem 2
+a

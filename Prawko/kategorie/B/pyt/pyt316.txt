@@ -1,0 +1,5 @@
+316. W tej sytuacji prędkość pojazdu holującego nie powinna przekraczać:
+a) po skręceniu w lewo - 30 km/h
+b) po skręceniu w prawo - 60 km/h
+c) po skręceniu w lewo - 60 km/h
+ab

@@ -1,0 +1,5 @@
+435. Międzynarodowe prawo jazdy:
+a) jest wydawane na podstawie krajowego prawa jazdy na okres nie dłuższy niż 3 lata
+b) nie jest konieczne, jeżeli kraj uznaje wydane za granicą krajowe prawo jazdy
+c) jest ważne w krajach w nim wymienionych
+abc

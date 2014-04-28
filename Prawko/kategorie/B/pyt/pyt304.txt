@@ -1,0 +1,5 @@
+304. W razie uczestniczenia w wypadku drogowym, w którym są ofiary, kierujący pojazdem powinien podać dane zakładu ubezpieczeń, z którym zawarta jest umowa OC:
+a) na żądanie pieszego uczestniczącego w wypadku
+b) na żądanie pasażera innego pojazdu uczestniczącego w wypadku
+c) wszystkim osobom, które były w pobliżu wypadku
+ab

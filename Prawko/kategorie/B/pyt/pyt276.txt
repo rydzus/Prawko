@@ -1,0 +1,5 @@
+276. W tej sytuacji kierujący pojazdem:
+a) 2 powinien włączyć kierunkowskaz, jeżeli zamierza wyprzedzić pojazd 3
+b) 3 może zwiększyć prędkość w czasie wyprzedzania go przez pojazd 2
+c) 1 może wyprzedzić pojazd 2, jeżeli zaistnieją ku temu warunki.
+c

@@ -1,0 +1,5 @@
+112. Znak ten (trójkąt) :
+a) uprzedza o zbliżaniu się do drogi z pierwszeństwem przejazdu,
+b) uprzedza o zbliżaniu się do drogi podporządkowanej,
+c) zobowiązuje do zatrzymania pojazdu przed skrzyżowaniem.
+a

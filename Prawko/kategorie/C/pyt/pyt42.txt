@@ -1,0 +1,5 @@
+42. W tej sytuacji, gdy na skrzyżowaniu stoi uszkodzony tramwaj, kierujący pojazdem 1:
+a) może objechać tramwaj przejeżdżając przez pas dzielący jezdnie
+b) nie może wjechać na skrzyżowanie, jeżeli zamierza jechać na wprost
+c) może zatrzymać pojazd tu przed tramwajem i oczekiwać na jego zjazd ze skrzyżowania
+b

@@ -1,0 +1,5 @@
+107. Ładunek wystający z boku pojazdu powinien być oznaczony:
+a) dwoma białymi i dwoma czerwonymi pasami widocznymi z boku i z przodu pojazdu
+b) w okresie dobrej widoczności chorągiewką barwy pomarańczowej o wymiarach co najmniej 50 × 50 cm
+c) w okresie niedostatecznej widoczności dodatkowo białym światłem odblaskowym skierowanym do przodu oraz czerwonym światłem i czerwonym światłem odblaskowym skierowanym do tyłu
+bc

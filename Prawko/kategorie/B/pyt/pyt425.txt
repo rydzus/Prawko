@@ -1,0 +1,5 @@
+425. Ciągnięcie przyczepy pojazdem samochodowym o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t jest:
+a) dozwolone, pod warunkiem uzyskania odpowiedniej adnotacji w dowodzie rejestracyjnym pojazdu ciągnącego
+b) zabronione, jeżeli przyczepa (inna niż motocyklowa)  nie jest zarejestrowana
+c) dozwolone bez sprawnych świateł zewnętrznych przyczepy
+ab

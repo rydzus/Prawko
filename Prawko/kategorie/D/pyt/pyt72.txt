@@ -1,0 +1,5 @@
+72. Zespołem pojazdów składającym się z autobusu o liczbie miejsc powyżej 15 (łącznie z miejscem kierowcy) i przyczepy można kierować, jeżeli:
+a) jego długość wynosi 19 m
+b) w dowodzie rejestracyjnym autobusu znajduje się odpowiednia adnotacja
+c) od terminu ostatniego okresowego badania technicznego autobusu nie minęło 6 miesięcy
+bc

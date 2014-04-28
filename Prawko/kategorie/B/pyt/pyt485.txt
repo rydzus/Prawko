@@ -1,0 +1,5 @@
+485. Ubytek oleju w silniku uzupełnia się:
+a) dowolnym olejem silnikowym
+b) nie przekraczając wielkości oznaczonej jako maksymalna
+c) tylko podczas okresowych przeglądów technicznych
+b

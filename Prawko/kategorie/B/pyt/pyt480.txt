@@ -1,0 +1,5 @@
+480. Która z tych lampek kontrolnych po zaświeceniu w czasie jazdy informuje o konieczności niezwłocznego zatrzymania pojazdu?
+a) A
+b) B
+c) C
+abc

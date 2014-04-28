@@ -1,0 +1,5 @@
+58. Zamontowanie dodatkowych mas obciążających ciągnik rolniczy:
+a) nie wymaga sprawdzenia ciśnienia powietrza w ogumieniu przed rozpoczęciem jazdy
+b) zwiększa przyczepność kół napędowych
+c) zapobiega utracie sterowności ciągnika
+bc

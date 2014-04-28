@@ -1,0 +1,5 @@
+16. Znak ten zabrania wjazdu:
+a) ciągnikom rolniczym o rzeczywistej masie całkowitej przekraczającej 3 t
+b) ciągnikom rolniczym z przyczepą, której rzeczywista masa całkowita przekracza 3 t
+c) ciągnikom rolniczym o rzeczywistej masie całkowitej nie przekraczającej 3 t
+ab

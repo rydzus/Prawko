@@ -1,0 +1,5 @@
+524. Na tym skrzyżowaniu kierujżcy pojazdem 1:
+a) przejeżdża przed pojazdem uprzywilejowanym,
+b) przejeżdża przed pojazdem 3,
+c) przejeżdża pierwszy.
+b

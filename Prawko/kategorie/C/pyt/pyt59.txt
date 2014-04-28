@@ -1,0 +1,5 @@
+59. Samochód ciężarowy powinien wysyłać żółte sygnały błyskowe, gdy:
+a) wykonuje na drodze prace porządkowe, remontowe lub modernizacyjne
+b) przewozi osoby poza kabiną kierowcy
+c) ze względu na przewożony ładunek może zagrażać bezpieczeństwu w ruchu drogowym
+ac

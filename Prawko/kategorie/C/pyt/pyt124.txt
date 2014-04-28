@@ -1,0 +1,5 @@
+124. Jeżeli skrzynia biegów samochodu ciężarowego wyposażona jest w pompę oleju zapewniającą smarowanie, to:
+a) jadąc na spadku drogi zaleca się ustawienie dźwigni zmiany biegów w położeniu neutralnym
+b) podczas holowania nie zaleca się odłączania wału napędowego
+c) podczas holowania zaleca się ustawienie dźwigni zmiany biegów w położeniu neutralnym
+c

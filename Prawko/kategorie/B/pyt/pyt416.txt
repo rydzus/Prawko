@@ -1,0 +1,5 @@
+416. Nie można kierować samochodem osobowym który:
+a) ma zakryte światła
+b) nie posiada tablic rejestracyjnych
+c) ma zakryte lub częściowo niewidoczne tablice rejestracyjne
+abc

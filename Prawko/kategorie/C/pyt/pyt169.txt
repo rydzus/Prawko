@@ -1,0 +1,5 @@
+169. Rozłączenie układu elektrycznego samochodu ciężarowego wyłącznikiem głównym prądu przed unieruchomieniem silnika, może spowodować:
+a) uszkodzenie alternatora
+b) uszkodzenie elementów elektronicznych pojazdu
+c) zapowietrzenie silnika
+ab

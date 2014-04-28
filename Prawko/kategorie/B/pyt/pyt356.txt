@@ -1,0 +1,5 @@
+356. Masaż serca u niemowlęcia prowadzi się:
+a) jedną ręka
+b) dwoma palcami,
+c) dwoma rękami. 
+b

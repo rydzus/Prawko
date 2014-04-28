@@ -1,0 +1,5 @@
+152. W tej sytuacji kierujący pojazdem:
+a) może skręcić w prawo bez zatrzymania się przed sygnalizatorem,
+b) może skręcić w prawo po zatrzymaniu się przed sygnalizatorem i upewnieniu, że nie utrudni ruchu,
+c) powinien zatrzymać się i oczekiwać na sygnał zielony, jeżeli zamierza skręcić w prawo.
+b

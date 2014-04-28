@@ -1,0 +1,5 @@
+105. Autobus nie będący autobusem miejskim używanym w komunikacji miejskiej lub miejskiej i podmiejskiej - powinien być wyposażony w:
+a) ogumione koło zapasowe
+b) apteczkę doraźnej pomocy
+c) lusterko wewnętrzne zapewniające kierowcy widoczność wnętrza autobusu
+abc

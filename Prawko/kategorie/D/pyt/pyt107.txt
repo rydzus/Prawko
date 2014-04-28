@@ -1,0 +1,5 @@
+107. Autobus regularnej komunikacji publicznej, który kursuje na linii oznaczonej literą lub liczbą powinien być wyposażony w tablicę kierunkową:
+a) czołową,
+b) boczną,
+c) tylną i wewnętrzną.
+abc

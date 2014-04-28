@@ -1,0 +1,5 @@
+432. Badanie techniczne pojazdu można przeprowadzić:
+a) w dowolnej stacji kontroli pojazdów
+b) w stacji napraw autoryzowanej przez producenta pojazdu
+c) w dowolnym warsztacie samochodowym
+a

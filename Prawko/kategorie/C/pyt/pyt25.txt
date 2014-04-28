@@ -1,0 +1,5 @@
+25. Określona na znaku wartość masy pojazdu:
+a) dotyczy przyczepy
+b) dotyczy samochodu ciężarowego
+c) odnosi się do dopuszczalnej masy całkowitej
+ac

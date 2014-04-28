@@ -1,0 +1,5 @@
+322. W tej sytuacji, w celu ostrzeżenia, kierujący pojazdem 1 może użyć sygnału:
+a) dźwiękowego
+b) świetlnego
+c) dźwiękowego lub świetlnego, kilka razy
+abc

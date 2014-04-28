@@ -1,0 +1,5 @@
+518. Podczas wyprzedzania kolumny pieszych kierujący pojazdem powinien:
+a) zachować szczególną ostrożność,
+b) uważnie obserwować otoczenie drogi,
+c) zachować od kolumny odstęp przynajmniej 1 metra.
+abc

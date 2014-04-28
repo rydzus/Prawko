@@ -1,0 +1,5 @@
+458. Większą skuteczność hamowania można uzyskać przez:
+a) hamowanie na granicy pierwszych objawów poślizgu kół
+b) na spadku - hamowanie silnikiem
+c) na śliskiej nawierzchni - hamowanie pulsacyjne
+abc

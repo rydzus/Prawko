@@ -1,0 +1,5 @@
+417. Kierujący pojazdem wysyłającym żółte sygnały błyskowe może nie stosować się do przepisów o:
+a) pierwszeństwie przejazdu
+b) obowiązku jazdy przy prawej krawędzi jezdni
+c) zatrzymaniu i postoju
+bc

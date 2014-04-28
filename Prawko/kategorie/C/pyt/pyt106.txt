@@ -1,0 +1,5 @@
+106. Nie wymaga się oznaczania przewożonego ładunku, jeżeli:
+a) wystaje z przodu pojazdu na odległość 10 cm
+b) jego szerokość jest równa szerokości skrzyni ładunkowej
+c) wystaje z tyłu pojazdu na odległość 1 m
+b

@@ -1,0 +1,5 @@
+247. W tej sytuacji kierujący pojazdem 1 powinien:
+a) umożliwić kierującemu pojazdem 2 włączenie się do ruchu
+b) zmniejszyć prędkość
+c) w razie potrzeby zatrzymać się
+abc

@@ -1,0 +1,5 @@
+351. Jak długo będziesz prowadził masaż serca i sztuczne oddychanie?
+a) do momentu przyjazdu zespołu ratownictwa medycznego, jeżeli ofiara wypadku nie zaczęła oddychać i nie wróciło u niej krążenie,
+b) przez 5 minut
+c) gdy stwierdzę, że ofiara wypadku zaczęła oddychać i powróciło u niej krążenie. 
+ac

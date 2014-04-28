@@ -1,0 +1,5 @@
+502. Znak ten ostrzega kierującego pojazdem o:
+a) przelatujących nisko samolotach,
+b) mogących występować silnych bocznych podmuchach wiatru,
+c) robotach drogowych.
+b

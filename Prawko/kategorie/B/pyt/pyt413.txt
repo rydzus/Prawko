@@ -1,0 +1,5 @@
+413. Pojazd może być unieruchomiony przez zastosowanie urządzenia do blokowania kół, jeżeli pozostawiono go w miejscu, gdzie jest to zabronione i: 
+a) utrudnia ruch
+b) zagraża bezpieczeństwu ruchu
+c) nie utrudnia ruchu oraz nie zagraża jego bezpieczeństwu
+c

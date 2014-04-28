@@ -1,0 +1,5 @@
+467. Całkowita droga zatrzymania samochodu osobowego na mokrej jezdni o nawierzchni bitumicznej, jadącego z prędkością 110 km/h, mieści się w przedziale:
+a) 80-100 m,
+b) 105-125 m,
+c) 130-200 m. 
+c

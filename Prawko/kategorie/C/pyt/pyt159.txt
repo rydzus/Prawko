@@ -1,0 +1,5 @@
+159. Przyczyną czarnego zabarwienia spalin w autobusie z silnikiem o zapłonie samoczynnym może być:
+a) zbyt duza ilość paliwa wtryskiwanego przez pompę
+b) źle ustawiony początek wtrysku
+c) uszkodzenie końcówki wtryskiwacza
+abc

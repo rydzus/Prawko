@@ -1,0 +1,5 @@
+476. Przed rozpoczęciem dłuższej jazdy należy sprawdzić:
+a) działanie świateł zewnętrznych
+b) działanie układu hamulcowego i kierowniczego
+c) ciśnienie powietrza w ogumieniu
+abc

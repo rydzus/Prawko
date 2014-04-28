@@ -1,0 +1,5 @@
+508. Za tym znakiem zabrania się na wszystkich drogach w określonej strefie:
+a) zatrzymania pojazdu na jezdni,
+b) zatrzymania pojazdu na chodniku na czas dłuższy niż 1 minuta,
+c) postoju pojazdu na jezdni lub chodniku.
+bc

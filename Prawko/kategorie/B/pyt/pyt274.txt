@@ -1,0 +1,5 @@
+274. W tej sytuacji kierujący pojazdem:
+a) 1 może wyprzedzić pojazd 2
+b) 2 może nie włączać kierunkowskazu
+c) 1 i 2 powinni zachować szczególną ostrożność
+ac

@@ -1,0 +1,5 @@
+109. Umieszczone na jezdni punktowe elementy odblaskowe barwy czerwonej wyznaczają:
+a) prawą krawędź jezdni,
+b) lewą krawędź jezdni,
+c) pasy ruchu.
+a

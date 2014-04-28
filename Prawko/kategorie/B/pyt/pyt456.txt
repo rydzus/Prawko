@@ -1,0 +1,5 @@
+456. Na prostym odcinku drogi wielopasmowej zaleca się jechać:
+a) jak najdłużej jednym i tym samym pasem ruchu,
+b) ciągle zmieniając pasy ruchu (slalomem) , jeżeli istnieje tylko taka możliwość,
+c) zmieniając pasy ruchu tylko w razie konieczności ominięcia lub wyprzedzenia innych uczestników ruchu. 
+ac

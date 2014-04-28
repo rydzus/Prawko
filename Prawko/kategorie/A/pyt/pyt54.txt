@@ -1,0 +1,5 @@
+54. Motocykl zostanie zakwalifikowany jako nadmiernie uciążliwy dla środowiska, jeżeli:
+a) powoduje nadmierny hałas
+b) z pojazdu wyciekają różne płyny
+c) zawartość spalin jest nieprawidłowa
+abc

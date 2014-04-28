@@ -1,0 +1,5 @@
+101. Ładunek przewożony samochodem ciężarowym nie może:
+a) wydzielać odrażającej woni
+b) powodować przekraczania dopuszczalnej ładowności
+c) zasłaniać świateł ani tablic, w które pojazd jest wyposażony
+abc

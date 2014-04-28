@@ -1,0 +1,5 @@
+429. Wskazanie na żądanie Policji, komu powierzono pojazd do kierowania w oznaczonym czasie (chyba że pojazd został użyty z wyłączeniem woli i wiedzy przez nieznaną osobę, czemu nie można było zapobiec)  jest:
+a) obowiązkiem właściciela pojazdu
+b) nieobowiązkowe
+c) obowiązkiem posiadacza pojazdu
+ac

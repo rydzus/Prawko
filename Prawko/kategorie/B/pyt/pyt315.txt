@@ -1,0 +1,5 @@
+315. Nie wolno holować:
+a) dwóch samochodów osobowych
+b) pojazdu o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia
+c) pojazdu o niesprawnym układzie kierowniczym, chyba że sposób holowania wyklucza potrzebę jego użycia
+abc

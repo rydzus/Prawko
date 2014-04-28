@@ -1,0 +1,5 @@
+26. Kierujący motocyklem nie może ciągnąć przyczepy, której rzeczywista masa całkowita:
+a) przekracza 100 kg
+b) przekracza masę własną motocykla
+c) wynosi 100 kg, przy masie własnej motocykla 100 kg
+ab

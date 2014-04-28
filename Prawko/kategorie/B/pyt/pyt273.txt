@@ -1,0 +1,5 @@
+273. W tej sytuacji kierujący pojazdem 1:
+a) może wyprzedzić pojazd 2
+b) może wyprzedzić pojazd 3
+c) nie może wyprzedzić pojazdów 2 i 3
+c

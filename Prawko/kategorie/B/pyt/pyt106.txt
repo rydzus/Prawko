@@ -1,0 +1,5 @@
+106. Ta linia zatrzymania:
+a) zobowiązuje do zatrzymania pojazdu,
+b) wskazuje miejsce zatrzymania pojazdu, w celu ustąpienia pierwszeństwa przejazdu,
+c) uprzedza o wjeździe na drogę podporządkowaną.
+b

@@ -1,0 +1,5 @@
+133. W tej sytuacji można wjechać za sygnalizator:
+a) przy skręcaniu w prawo, niezależnie od możliwości zatrzymania pojazdu przed nim,
+b) przy zawracaniu, niezależnie od możliwości zatrzymania pojazdu przed nim,
+c) gdy zatrzymanie pojazdu przed nim wymagałoby gwałtownego hamowania.
+c

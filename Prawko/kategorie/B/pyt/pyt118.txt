@@ -1,0 +1,5 @@
+118. Na jezdni oznaczonej tym znakiem:
+a) wyznaczone jest miejsce do parkowania pojazdów,
+b) wyznaczone jest miejsce przystanku, np.  autobusu,
+c) wyznaczona jest powierzchnia wyłączona z ruchu pojazdów.
+b

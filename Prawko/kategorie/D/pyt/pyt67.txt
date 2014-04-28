@@ -1,0 +1,5 @@
+67. W każdym 24-godzinnym okresie, kierowca wykonujący przewozy drogowe (z wyjątkiem przewozów wykonywanych niektórymi pojazdami) powinien wykorzystać co najmniej:
+a) 8 godzin nieprzerwanego odpoczynku
+b) 12 godzin nieprzerwanego odpoczynku
+c) 11 godzin nieprzerwanego odpoczynku, z możliwością skrócenia nie więcej niż do 9 godzin i nie częściej niż trzykrotnie w ciągu jednego tygodnia, jeżeli równoważny okres odpoczynku będzie wykorzystany przed upływem następnego tygodnia
+c

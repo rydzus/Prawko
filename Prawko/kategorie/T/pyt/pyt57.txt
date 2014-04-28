@@ -1,0 +1,5 @@
+57. Aby odpowietrzyć układ zasilania silnika o zapłonie samoczynnym należy usunąć powietrze z:
+a) pompy wtryskowej
+b) filtru paliwa
+c) przewodów wysokiego ciśnienia
+ab

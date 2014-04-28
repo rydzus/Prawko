@@ -1,0 +1,5 @@
+183. Na tym skrzyżowaniu kierujący pojazdem 1 ma pierwszeństwo przed pojazdem:
+a) 2,
+b) 3,
+c) uprzywilejowanym 4.
+b

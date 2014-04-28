@@ -1,0 +1,5 @@
+30. Znak ten oznacza zakaz wjazdu pojazdów:
+a) o nacisku osi składowych większym niż odpowiadający masie 4 t, jeżeli wchodzą w skład osi wielokrotnej
+b) specjalnych, o dopuszczalnej masie całkowitej nie przekraczającej 5 t
+c) o nacisku osi pojedynczej większym niż odpowiadający masie 5 t
+ac

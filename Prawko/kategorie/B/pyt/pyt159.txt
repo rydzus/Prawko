@@ -1,0 +1,5 @@
+159. Sygnał ten oznacza:
+a) zezwolenie na skręcenie w lewo, po uprzednim zatrzymaniu się przed sygnalizatorem,
+b) zezwolenie na zawrócenie,
+c) że podczas skręcania w lewo nie występuje kolizja z innymi uczestnikami ruchu.
+c

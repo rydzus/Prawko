@@ -1,0 +1,5 @@
+68. Kierowca samochodu ciężarowego przed umieszczeniem wykresówki w tachografie, powinien na niej wpisać w polu oznaczonym liczbą:
+a) 1 - imię i nazwisko
+b) 2 - datę rozpoczęcia używania wykresówki
+c) 3 - średnią prędkość z ostatnich trzech przejazdów dokonywanych tym pojazdem
+ab

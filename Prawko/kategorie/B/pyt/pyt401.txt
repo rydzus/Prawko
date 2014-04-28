@@ -1,0 +1,5 @@
+401. W miejscu oznaczonym tym znakiem mogą parkować pojazdy:
+a) kierowane przez osoby niepełnosprawne o obniżonej sprawności ruchowej,
+b) przewożące osoby niepełnosprawne o obniżonej sprawności ruchowej,
+c) przewożące ładunki, w celu ich rozładowania. 
+ab

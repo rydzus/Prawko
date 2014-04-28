@@ -1,0 +1,5 @@
+394. Który znak nie dotyczy kierującego samochodem osobowym?
+a) A
+b) B
+c) C
+a

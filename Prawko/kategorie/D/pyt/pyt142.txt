@@ -1,0 +1,5 @@
+142. Przed rozpoczęciem dłuższej jazdy kierujący autobusem powinien sprawdzić:
+a) ciśnienie powietrza w ogumieniu
+b) działanie mechanizmu otwierania i zamykania drzwi
+c) poziom płynu w spryskiwaczu szyb
+abc

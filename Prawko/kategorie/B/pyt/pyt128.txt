@@ -1,0 +1,5 @@
+128. W tej sytuacji kierujący tym pojazdem:
+a) może jechać na wprost przez skrzyżowanie,
+b) nie może opuścić skrzyżowania,
+c) może skręcić w lewo.
+b

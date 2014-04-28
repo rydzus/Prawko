@@ -1,0 +1,5 @@
+131. Podczas jazdy samochodem ciężarowym z przyczepą, kierujący powinien uwzględnić to, że:
+a) przyczepa porusza się zawsze tym samym torem, co pojazd ciągnący
+b) zespół pojazdów ma większe opory toczenia niż pojedynczy pojazd
+c) przyczepa wyposażona w hamulec najazdowy hamuje wcześniej, niż pojazd ciągnący
+b

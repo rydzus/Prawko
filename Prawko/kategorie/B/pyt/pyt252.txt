@@ -1,0 +1,5 @@
+252. W tej sytuacji kierujący pojazdem:
+a) powinien zająć pas 1, jeżeli zamierza skręcić w lewo
+b) może z pasa 2 lub 3 skręcić w prawo
+c) może z pasa 1, 2 lub 3 pojechać na wprost
+ac

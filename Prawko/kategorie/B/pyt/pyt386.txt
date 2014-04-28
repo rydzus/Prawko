@@ -1,0 +1,5 @@
+386. Widząc ten znak kierujący pojazdem:
+a) powinien spodziewać się lotniska
+b) może spodziewać się silnych bocznych podmuchów wiatru
+c) powinien spodziewać się podmuchów wiatru tylko z lewej strony
+b

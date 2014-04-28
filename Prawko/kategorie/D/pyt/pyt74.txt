@@ -1,0 +1,5 @@
+74. Okresowe badanie techniczne autobusu o liczbie miejsc powyżej 15 łącznie z miejscem kierowcy, przeprowadza się:
+a) corocznie
+b) przed upływem roku od dnia pierwszej rejestracji, a następnie co 6 miesięcy
+c) co 6 miesięcy od dnia pierwszej rejestracji
+b

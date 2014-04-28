@@ -1,0 +1,5 @@
+96. Kierujący autobusem komunikacji publicznej:
+a) może odmówić przewozu pasażera, który mając zapewnione miejsce siedzące stoi
+b) może odmówić przewozu pasażerów, jeżeli przekroczona została liczba osób na miejscach stojących
+c) nie powinien ruszyć z przystanku, jeżeli do pojazdu weszło więcej osób niż określa to dowód rejestracyjny
+bc

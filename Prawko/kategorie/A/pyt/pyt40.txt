@@ -1,0 +1,5 @@
+40. Policjant zatrzyma prawo jazdy za pokwitowaniem, jeżeli:
+a) upłynął termin jego ważności
+b) kierujący pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy, przekroczył liczbę 20 punktów za naruszenie przepisów ruchu drogowego
+c) kierujący pojazdem przekroczył liczbę 24 punktów za naruszenie przepisów ruchu drogowego
+abc

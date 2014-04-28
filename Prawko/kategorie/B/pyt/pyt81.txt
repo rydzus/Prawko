@@ -1,0 +1,5 @@
+81. Znak ten (linia ciągła):
+a) rozdziela pasy o tym samym kierunku ruchu,
+b) rozdziela pasy o przeciwnych kierunkach ruchu,
+c) zezwala na przejeżdżanie na sąsiedni pas ruchu.
+a

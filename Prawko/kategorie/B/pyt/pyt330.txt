@@ -1,0 +1,5 @@
+330. Na oznaczonej drodze krętej, w okresie od zmierzchu do świtu w warunkach normalnej przejrzystości powietrza, kierujący pojazdem może używać:
+a) tylnych świateł przeciwmgłowych
+b) przednich świateł przeciwmgłowych
+c) świateł mijania
+bc

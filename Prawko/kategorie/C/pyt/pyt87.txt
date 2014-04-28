@@ -1,0 +1,5 @@
+87. Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy pod warunkiem, że:
+a) pojazd jest odpowiednio przystosowany lub przeznaczony do przewozu osób
+b) osoby nie znajdują się między ładunkiem a kabiną kierowcy
+c) osoby przewożone są na miejscach siedzących
+abc

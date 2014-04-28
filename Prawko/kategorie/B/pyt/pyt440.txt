@@ -1,0 +1,5 @@
+440. Policjant zatrzyma dowód rejestracyjny w razie:
+a) naruszenia przez kierującego zasad ruchu drogowego
+b) stwierdzenia, że pojazd nie został poddany badaniu technicznemu w wyznaczonym terminie
+c) nieokazania przez kierującego dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia OC posiadacza pojazdu lub opłacenia składki tego ubezpieczenia
+bc

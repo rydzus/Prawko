@@ -1,0 +1,5 @@
+33. Ładunek na przyczepie ciągniętej przez ciągnik rolniczy powinien być tak umieszczony i zabezpieczony, aby:
+a) nie naruszał stateczności przyczepy
+b) nie ograniczał widoczności drogi
+c) nie zmienił położenia
+abc

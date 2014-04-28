@@ -1,0 +1,5 @@
+160. Przyczyną zwiększonego oporu przy obracaniu kierownicą w autobusie może być:
+a) wyższe od dopuszczalnego ciśnienie w ogumieniu
+b) zbyt niski poziom oleju w hydraulicznym układzie wspomagania
+c) złe ustawienie przednich kół
+bc

@@ -1,0 +1,5 @@
+380. Kierujący pojazdem, hamując:
+a) nie powinien powodować zagrożenia bezpieczeństwa ruchu
+b) może nie zwracać uwagi na zachowanie właściwego odstępu od poprzedzającego pojazdu
+c) nie powinien powodować utrudnienia ruchu
+ac

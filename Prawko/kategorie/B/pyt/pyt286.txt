@@ -1,0 +1,5 @@
+286. W tej sytuacji kierujący pojazdem:
+a) może przejechać przed pieszym,
+b) powinien zatrzymać pojazd w celu umożliwienia przejścia pieszemu,
+c) powinien uważnie obserwować ruchu pieszego
+bc

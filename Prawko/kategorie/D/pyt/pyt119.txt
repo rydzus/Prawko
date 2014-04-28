@@ -1,0 +1,5 @@
+119. Podczas jazdy autobusem na długim spadku zaleca się korzystać z:
+a) hamulca silnikowego tzw. "górskiego"
+b) hamulca awaryjnego
+c) elektrycznego hamulca wirowego, jeżeli pojazd go posiada
+ac

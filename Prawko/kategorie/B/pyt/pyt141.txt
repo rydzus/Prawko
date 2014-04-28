@@ -1,0 +1,5 @@
+141. Po tym sygnale zapali się sygnał:
+a) czerwony,
+b) żółty,
+c) zielony.
+c

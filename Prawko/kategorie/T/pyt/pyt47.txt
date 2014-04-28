@@ -1,0 +1,5 @@
+47. W ciągniku rolniczym blokadę mechanizmu różnicowego zaleca się włączyć:
+a) podczas prac w polu
+b) w początkowej fazie poślizgu jednego z kół
+c) gdy jedno z kół jest w dużym poślizgu
+ab

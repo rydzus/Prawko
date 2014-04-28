@@ -1,0 +1,5 @@
+262. Cofanie pojazdu jest zabronione:
+a) na moście lub na wiadukcie
+b) w tunelu
+c) na drodze ekspresowej
+abc

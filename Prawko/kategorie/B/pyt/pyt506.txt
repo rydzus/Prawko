@@ -1,0 +1,5 @@
+506. W tej sytuacji kierujący pojazdem jest uprzedzony o:
+a) miejscu, w którym rozpoczyna się ruch dwukierunkowy,
+b) obowiązku ustępienia pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka,
+c) pierwszeństwie przejazdu przed pojazdem nadjeżdżającym z przeciwka.
+b

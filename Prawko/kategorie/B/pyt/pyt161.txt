@@ -1,0 +1,5 @@
+161. Sygnał ten dotyczy kierującego pojazdem:
+a) skręcającego w lewo,
+b) skręcającego w prawo,
+c) jadącego na wprost przez skrzyżowanie.
+ac

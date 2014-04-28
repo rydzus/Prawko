@@ -1,0 +1,5 @@
+137. Kierujący pojazdem członowym przed rozłączeniem go powinien:
+a) wysunąć urządzenia podporowe naczepy i unieruchomić jej koła
+b) rozłączyć wszystkie połączenia między pojazdem silnikowym a naczepą
+c) odbezpieczyć blokadę zaczepu i otworzyć zamek naczepy
+abc

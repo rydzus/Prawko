@@ -1,0 +1,5 @@
+23. Określona na tym znaku wartość masy odnosi się do:
+a) rzeczywistej masy całkowitej
+b) masy własnej
+c) dopuszczalnej masy całkowitej
+c

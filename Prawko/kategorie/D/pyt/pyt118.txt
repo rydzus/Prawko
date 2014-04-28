@@ -1,0 +1,5 @@
+118. W celu uruchomienia silnika autobusu przez holowanie zaleca się:
+a) używać połączenia giętkiego
+b) używać połączenia sztywnego
+c) włączyć 2 lub 3 bieg
+bc

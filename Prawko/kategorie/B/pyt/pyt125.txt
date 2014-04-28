@@ -1,0 +1,5 @@
+125. W tej sytuacji sygnał ten:
+a) zezwala na wjazd za sygnalizator, bez obserwowania ruchu na drodze poprzecznej,
+b) zezwala na wjazd za sygnalizator po opuszczeniu jezdni przez pieszego,
+c) dopuszcza wjazd za sygnalizator, pomimo utrudnienia pieszemu opuszczenia jezdni.
+b

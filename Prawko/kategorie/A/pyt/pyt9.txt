@@ -1,0 +1,5 @@
+9. Kierujący motocyklem powinien dostosować prędkość jazdy do:
+a) stanu nawierzchni drogi
+b) stanu i ładunku pojazdu
+c) warunków atmosferycznych
+abc

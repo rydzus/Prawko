@@ -1,0 +1,5 @@
+375. W tej sytuacji dopuszczalna prędkość samochodu osobowego z przyczepą wynosi:
+a) 70 km/h
+b) 80 km/h
+c) 90 km/h
+b

@@ -1,0 +1,5 @@
+387. Widząc ten znak kierujący pojazdem jest ostrzegany o:
+a) odcinku drogi pokrytej żwirem lub grysem
+b) miękkim poboczu
+c) możliwości uszkodzenia odłamkami żwiru lub grysu innych pojazdów, jeżeli jedzie zbyt szybko
+ac

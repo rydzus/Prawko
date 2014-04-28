@@ -1,0 +1,5 @@
+92. Policjant uniemożliwia korzystanie z samochodu cięzarowego, którego:
+a) ładunek zagraża bezpieczeństwu lub porządkowi ruchu
+b) naciski osi powodują uszkodzenie drogi
+c) stan techniczny narusza wymagania ochrony środowiska
+abc

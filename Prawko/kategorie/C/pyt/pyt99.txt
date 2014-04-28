@@ -1,0 +1,5 @@
+99. Ładunek przewożony samochodem ciężarowym nie może powodować przekroczenia:
+a) dopuszczalnej masy całkowitej
+b) dopuszczalnej ładowności
+c) dopuszczalnych nacisków osi pojazdu na drogę
+abc

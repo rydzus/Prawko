@@ -1,0 +1,5 @@
+78. Po upływie terminu czasowej rejestracji autobusu, który nie został wywieziony za granicę:
+a) zwraca się tablice rejestracyjne
+b) można nie zwracać pozwolenia czasowego
+c) nie można dalej korzystać z pojazdu
+ac

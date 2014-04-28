@@ -1,0 +1,5 @@
+30. Motocykl zostanie usunięty z drogi, jeżeli pozostawiono go w miejscu, gdzie jest to zabronione i:
+a) utrudnia ruch
+b) zagraża bezpieczeństwu ruchu
+c) nie utrudnia ruchu lub w inny sposób nie zagraża bezpieczeństwu
+ab

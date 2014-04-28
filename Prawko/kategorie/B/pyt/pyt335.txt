@@ -1,0 +1,5 @@
+335. W tej sytuacji kierujący pojazdem wyprzedzającym może zmienić światła mijania na drogowe:
+a) zaraz po rozpoczęciu wyprzedzania
+b) gdy znajdzie się na wysokości pojazdu wyprzedzanego
+c) dopiero po zakończeniu wyprzedzania i zjechaniu w prawo
+b

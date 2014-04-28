@@ -1,0 +1,5 @@
+339. W warunkach niedostatecznej widoczności światła zewnętrzne pojazdu mogą być wyłączone podczas postoju:
+a) poza jezdnią i poboczem
+b) w miejscu oświetlonym w stopniu zapewniającym widoczność pojazdu
+c) w miejscu nieoświetlonym na poboczu
+ab

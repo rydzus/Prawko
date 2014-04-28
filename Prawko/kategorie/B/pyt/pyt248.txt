@@ -1,0 +1,5 @@
+248. W tej sytuacji kierujący samochodem osobowym:
+a) powinien włączyć kierunkowskaz i zjechać na pas 3, jeżeli zamierza skręcić w prawo
+b) może z pasa 1, 2 lub 3 pojechać na wprost
+c) może z pasa 2 skręcić w lewo lub zawrócić
+ab

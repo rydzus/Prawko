@@ -1,0 +1,5 @@
+359. Obowiązek udzielania pierwszej pomocy ofiarom wypadku ma:
+a) każdy, gdyż nawet w przypadku obecności zagrożeń można wykonać część działań ratunkowych,
+b) wyłącznie sprawca wypadku, gdyż za ewentualne popełnione błędy zawsze grozi odpowiedzialność karna,
+c) wyłącznie lekarz pogotowia, gdyż udzielać pomocy mogą jedynie osoby z wykształceniem medycznym. 
+a

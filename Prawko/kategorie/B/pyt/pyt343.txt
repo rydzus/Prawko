@@ -1,0 +1,5 @@
+343. W jaki sposób zabezpieczysz miejsce wypadku samochodowego?
+a) ustawię trójkąty ostrzegawcze,
+b) bezpiecznie zaparkuję własny samochód,
+c) wyłączę stacyjkę samochodu, który miał wypadek. 
+abc

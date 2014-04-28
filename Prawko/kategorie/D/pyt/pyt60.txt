@@ -1,0 +1,5 @@
+60. Kierującemu autobusem zabrania się:
+a) pozostawiania pracującego silnika podczas postoju na obszarze zabudowanym
+b) oddalania się od pojazdu, gdy silnik jest w ruchu
+c) pozostawiania pracującego silnika podczas postoju na parkingu poza obszarem zabudowanym
+ab

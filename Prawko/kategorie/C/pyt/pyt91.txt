@@ -1,0 +1,5 @@
+91. Rzeczywista masa całkowita przyczepy ciągniętej przez samochód ciężarowy o dopuszczalnej masie całkowitej przekraczającej 3,5 t nie może być większa od:
+a) rzeczywistej masy całkowitej pojazdu ciągnącego
+b) rzeczywistej masy całkowitej pojazdu ciągnącego powiększonej o 40%
+c) połowy rzeczywistej masy całkowitej pojazdu ciągnącego
+b

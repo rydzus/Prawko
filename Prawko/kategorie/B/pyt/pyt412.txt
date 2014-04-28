@@ -1,0 +1,5 @@
+412. W tej sytuacji samochód osobowy zostanie usunięty z drogi na koszt właściciela, ponieważ:
+a) utrudnia ruch
+b) zagraża bezpieczeństwu ruchu
+c) jest pozostawiony w miejscu, gdzie jest to zabronione.
+abc

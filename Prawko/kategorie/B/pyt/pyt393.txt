@@ -1,0 +1,5 @@
+393. Za tym znakiem, kierujący pojazdem powinien jechać z prędkością:
+a) nie przekraczającą 30 km/h
+b) nie mniejszą niż 30 km/h, chyba że warunki ruchu lub jego bezpieczeństwo wymagają zmniejszenia prędkości
+c) powinien jechać z prędkością nie większą niż 30 km/h, bez względu na warunki ruchu. 
+b

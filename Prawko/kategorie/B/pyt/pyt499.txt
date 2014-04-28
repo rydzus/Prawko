@@ -1,0 +1,5 @@
+499. Jednym z warunków otrzymania prawa jazdy jest przebywanie na terytorium Rzeczypospolitej Polskiej przez okres co najmniej:
+a) 100 dni,
+b) 185 dni,
+c) 365 dni.
+b

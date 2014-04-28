@@ -1,0 +1,5 @@
+501. Znak ten ostrzega kierującego pojazdem o:
+a) wjeździe na most zwodzony lub obrotowy,
+b) stromym podjeździe,
+c) niebezpiecznym zjeździe.
+b

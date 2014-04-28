@@ -1,0 +1,5 @@
+163. Sygnał ten oznacza:
+a) zezwolenie na skręcenie w prawo, po uprzednim zatrzymaniu się przed sygnalizatorem,
+b) zezwolenie na skręcenie w prawo bez dodatkowych warunków,
+c) że podczas skręcania w prawo nie występuje kolizja z innymi uczestnikami ruchu.
+bc

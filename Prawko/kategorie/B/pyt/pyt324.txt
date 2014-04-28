@@ -1,0 +1,5 @@
+324. W tej sytuacji, podczas omijania we mgle, kierujący pojazdem silnikowym 1:
+a) powinien dawać krótkotrwałe sygnały dźwiękowe
+b) może mieć włączone tylne światła przeciwmgłowe, gdy mgła ogranicza widoczność na odległość mniejszą niż 50 m
+c) powinien mieć włączone światła drogowe
+ab

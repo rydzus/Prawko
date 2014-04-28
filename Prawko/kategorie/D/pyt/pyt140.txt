@@ -1,0 +1,5 @@
+140. Przed rozpoczęciem dłuższej jazdy kierujący autobusem powinien sprawdzić:
+a) poziom paliwa w zbiorniku
+b) działanie świateł zewnętrznych pojazdu
+c) działanie układu hamulcowego i kierowniczego
+abc

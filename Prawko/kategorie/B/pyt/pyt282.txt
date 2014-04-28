@@ -1,0 +1,5 @@
+282. W tej sytuacji kierujący pojazdem, przejeżdżając przez chodnik:
+a) ustępuje pierwszeństwa pieszemu 1
+b) ma pierwszeństwo przed pieszym 2
+c) powinien jechać powoli
+ac

@@ -1,0 +1,5 @@
+500. Znak ten ostrzega o:
+a) nierówności na drodze,
+b) robotach na drodze,
+c) skrzyżowaniu dróg.
+c

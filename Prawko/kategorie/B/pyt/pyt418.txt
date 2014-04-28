@@ -1,0 +1,5 @@
+418. Kierujący samochodem osobowym nie powinien:
+a) pozostawiać pojazdu na parkingu z kluczykami w stacyjce
+b) oddalać się od pojazdu, gdy silnik jest w ruchu
+c) używać łańcuchów przeciwślizgowych na oponach, jeżeli droga nie jest pokryta śniegiem
+abc

@@ -1,0 +1,5 @@
+160. Sygnał ten zezwala na:
+a) zawrócenie, po uprzednim zatrzymaniu się przed sygnalizatorem,
+b) przejazd przez skrzyżowanie w dowolnym kierunku,
+c) skręcenie w lewo.
+c

@@ -1,0 +1,73 @@
+1.2a
+- zostały zaktualizowane i dodane nowe pytania i obrazki
+
+1.2
+- dodana kategoria D
+- dodanie pomocy (opis + klawiszologia ekranu) prawie do kazdego ekranu
+- poprawiony zakres wyboru pytan. mozliwe jest wybranie tylko jednego pytania. 
+- poprawiony blad, ze przy 16 poprawnych odpowiedziach program info. o nie zaliczeniu egz. (zglosil blad Ma3iek)
+- usuniecie bledu ktory powodowal wyswietlanie niepelnych odpowiedzi (zglosil blad Ma3iek)
+- poprawione literowki itp. (blady zglosili Ma3iek i rei-u)
+- poprawiona obsluga bledow. nie wiesza konsoli. zapisuje komunikat do pliku i wylacza program
+- katalogi kategori zostaly umieszczone w jednym katalogu "kategorie"
+- pytania ktore nie maja obrazkow nie musza juz dodatkowo ladowac pliku tmp.bmp (plik zostal usuniety)
+- zostal dodany efekt szkla dla pytan, odpowiedzi itp.
+- powrot do ciemnych kolorow ]:-> (podsumowanie i wybor)
+- dodany separator miedzy prezentowanym zdjeciem a ekranem i pytaniem + dodany cien
+
+1.1
+- dodane kategorie C i T
+- mozliwosc przelaczania sie miedzy pytaniami w egzaminie i podsumowaniu egzaminu. Nie musimy odrazu odpowiadac na pytania
+- dodany maly akcent graficzny w menu (propozycja i wykonanie rei-u)
+- dodanie polskich liter w informacjach i o programie (zglosil poprawke Ma3iek)
+- usuniecie bladu przy pytaniach 362 i 363 gdzie nie byly wyswietlane pelne odpowiedzi (zglosil blad Ma3iek)
+- zmienilem troche wyglad podsumowania/wyboru pytan (widac na screenach)
+
+1.0
+- dodanie "trybu" egzamin - ma to byc symulacja prawdziwego egzaminu, czyli mamy 25min aby odpowiedziec na 18 pytan. W podsumowaniu egaminu mozemy zobaczyc - gdzie popelnilismy blad (domyslnie ustawione, ze nie chcemy oberzec wyniku egzaminu, aby to jednak zmienic trzeba nacisnac strzalke w lewo i potwierdzic wybor STARTem lub X
+
+1.0alfa2
+- 60 pytan kategorii A (tylko tyle jest)
+- zostal dodany wybor kategorii
+
+1.0alfa1
+- 490 pytan kategorii B
+- lepsze przycinanie tekstu
+- zapamietywany jest wybor z menu
+- 18 pytan, zamiast 20
+- zamiana kolorow w pytaniach (mam nadzieje, ze na lepsze )
+- wybor pytan od ktorego do ktorego
+- dodanie losowosci w 490 pytan (to znaczy jezeli chcemy aby pytania byly losowane musimy opcje zaznaczyc)
+- dodana opcja "o programie"
+- dodany wskaznik ktory informuje ile pytan juz odpowiedzielismy a ile jest wszystkich (np. 45 z 100)
+- nieskonczone menu (to znaczy, ze mozemy przejc z opcji 490 pytan na wyjscie i odwrotnie przez jedno klikncie)
+- mozliwe jest uspienie konsoli przy powiekszeniu zdjecia
+
+0.9F:
+- naprawiony blad ze zwalnianiem pamieci
+- poprawiona grafika
+
+0.9:
+- 100 nowych/dalszych pytan
+- pytania moga byc bez obrazkow (ladowany jest plik tmp.bmp)
+- program wykonuje mniej odczytow z karty (tylko przy ladowaniu pytania)
+- porzadki w kodzie (poprawianie zwalniania pamieci)
+- zmieniony kolor belki pytania
+- zdjecie nie jest juz "spłaszczone"
+- jezeli odpowie sie zle, zostana podane odpowiedzi, a nie tylko informacja czy dobrze czy zle
+- przebudowanie informacji czy dobrze czy zle odpowiedzialo sie na pytanie - teraz odpowiedz jest na tym samym ekranie co pytanie
+- lepsze przyciecie zdania (slowa sa cale) 
+
+0.3:
+- zostaly zaktualizowane pytania
+- naprawiony blad przy wyswietlaniu setnego pytania
+- dodanie testu gdzie PSP losuje 20 pytan
+- lekko zmienione menu (teraz lepiej widac wybrana/aktywna opcje)
+- w menu mozna zatwierdzac przyciskiem START wybor
+
+0.2:
+- naprawienie uspienia/wylaczenie PSP przyciskiem HOME w informacji o poprawnosci odpowiedzi
+- naprawienie uspienia/wylaczenie PSP przyciskiem HOME w podsumowaniu testu
+
+0.1:
+- pierwsza wersja

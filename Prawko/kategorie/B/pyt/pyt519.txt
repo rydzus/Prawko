@@ -1,0 +1,5 @@
+519. Prawo jazdy kategorii B:
+a) uprawnia do ciągnięcia przyczepy lekkiej, nawet w przypadku, gdy dopuszczalna masa całkowita zestawu przekracza 3,5 t,
+b) nie uprawnia do ciągnięcia przyczepy,
+c) uprawnia do ciągnięcia dowolnej przyczepy, o ile dopuszczalna masa całkowita zestawu nie przekracza 4 t.
+a

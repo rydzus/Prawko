@@ -1,0 +1,5 @@
+69. W każdym 24 - godzinnym okresie, odpoczynek kierowcy wykonującego przewozy drogowe (z wyjątkiem przewozów wykonywanych niektórymi pojazdami) może być podzielony na:
+a) dwie części, przy czym pierwsza z nich powinna wynosić co najmniej 3 godziny, a druga nie mniej ni 9 godzin,
+b) trzy części, przy czym jedna z nich powinna wynosić co najmniej 9 kolejnych godzin,
+c) trzy części w dowolnej wielkości godzin,
+a

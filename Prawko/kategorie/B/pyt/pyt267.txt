@@ -1,0 +1,5 @@
+267. Przed rozpoczęciem wyprzedzania kierujący pojazdem powinien upewnić się, czy kierujący jadący:
+a) za nim nie rozpoczął wyprzedzania
+b) przed nim na tym samym pasie ruchu nie zasygnalizował zamiaru wyprzedzania innego pojazdu
+c) przed nim na tym samym pasie ruchu nie zasygnalizował zmiany pasa ruchu lub kierunku jazdy
+abc

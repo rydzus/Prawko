@@ -1,0 +1,5 @@
+162. Sygnał ten oznacza zezwolenie na:
+a) zawrócenie,
+b) skręcenie w lewo,
+c) jazdę na wprost przez skrzyżowanie.
+bc

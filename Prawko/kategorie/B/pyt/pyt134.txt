@@ -1,0 +1,5 @@
+134. Gdy pojazd nie może być zatrzymany przed sygnalizatorem bez gwałtownego hamowania, sygnał ten zezwala na:
+a) skręcenie w prawo,
+b) skręcenie w lewo,
+c) jazdę na wprost przez skrzyżowanie.
+abc

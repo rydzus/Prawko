@@ -1,0 +1,5 @@
+488. W trakcie eksploatacji samochodu osobowego należy przestrzegać zaleceń podanych przez producenta w instrukcji obsługi pojazdu:
+a) tylko przy dokonywaniu okresowych przeglądów technicznych
+b) w zakresie wymienianych materiałów eksploatacyjnych
+c) w zakresie wymienianych mechanizmów pojazdu
+bc

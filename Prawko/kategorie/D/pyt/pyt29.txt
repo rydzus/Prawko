@@ -1,0 +1,5 @@
+29. Znak ten:
+a) dotyczy kierujących autobusami
+b) nie dotyczy kierujących autobusami o długości nie przekraczającej 6 m
+c) nie dotyczy kierujących autobusami przeznaczonymi konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą
+a

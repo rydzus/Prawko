@@ -1,0 +1,5 @@
+254. W tej sytuacji, po skręceniu w lewo, kierujący pojazdem:
+a) może zająć pas 1,2 lub 3
+b) powinien zająć pas 1
+c) powinien zająć pas 3
+a

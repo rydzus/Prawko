@@ -1,0 +1,5 @@
+457. Jeżeli zachodzi konieczność nagłego zatrzymania samochodu osobowego, to należy:
+a) natychmiast wcisnąć pedał hamulca roboczego,
+b) najpierw wcisnąć pedał sprzęgła, a następnie rozpocząć hamowanie pulsacyjne,
+c) wyłączyć silnik. 
+a

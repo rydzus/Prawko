@@ -1,0 +1,5 @@
+93. Samochód ciężarowy przewożący osoby poza kabina kierowcy może posiadać nadwozie:
+a) rodzaju furgon
+b) skrzyniowe kryte opończą
+c) skrzyniowe otwarte
+ab

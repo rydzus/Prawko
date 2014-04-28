@@ -1,0 +1,5 @@
+244. Który pojazd jest w tej sytuacji nieprawidłowo zaparkowany?
+a) - 1,
+b) - 2,
+c) - 3.
+abc

@@ -1,0 +1,5 @@
+319. Postój na drodze oznaczonej tym znakiem pojazdu silnikowego, który uległ wypadkowi można sygnalizować przez włączenie świateł:
+a) awaryjnych i umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem
+b) awaryjnych, bez umieszczania na drodze ostrzegawczego trójkąta odblaskowego
+c) awaryjnych i umieszczenie ostrzegawczego trójkąta odblaskowego tuż za pojazdem
+a

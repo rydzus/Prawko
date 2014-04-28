@@ -1,0 +1,5 @@
+469. Droga hamowania samochodu osobowego na mokrej jezdni, jest:
+a) równa drodze hamowania na jezdni suchej,
+b) dłuższa od drogi hamowania na jezdni suchej,
+c) krótsza od drogi hamowania na jezdni oblodzonej
+bc

@@ -1,0 +1,5 @@
+288. W tej sytuacji kierujący pojazdem:
+a) może przejechać obok przystanku bez zatrzymania
+b) powinien zatrzymać pojazd przed przejściem dla pieszych
+c) powinien zachować szczególną ostrożność podczas przejeżdżania obok przystanku
+ac

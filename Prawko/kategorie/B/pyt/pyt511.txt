@@ -1,0 +1,5 @@
+511. Znak ten (linia podwójna ciągła):
+a) zabrania zawracania na odcinku oznaczonym tę linią,
+b) zezwala na przejeżdżanie przez tę linię przy wyprzedzaniu pojazdów,
+c) zabrania najeżdżania na tę linię.
+ac

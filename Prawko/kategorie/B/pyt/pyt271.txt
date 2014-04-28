@@ -1,0 +1,5 @@
+271. W tej sytuacji na obszarze zabudowanym kierujący pojazdem 1 może wyprzedzić:
+a) pojazd 3 z lewej strony
+b) pojazd uprzywilejowany 2
+c) pojazd 3 z prawej strony
+ac

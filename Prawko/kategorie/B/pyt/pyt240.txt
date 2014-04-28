@@ -1,0 +1,5 @@
+240. W tej sytuacji kierujący pojazdem:
+a) 1 może wjechać na skrzyżowanie
+b) 2 nie może wjechać na skrzyżowanie
+c) 1 może skręcić w prawo
+abc

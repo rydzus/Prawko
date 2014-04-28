@@ -1,0 +1,5 @@
+128. Jeżeli w czasie jazdy autobusu "wystrzeli" opona przedniego koła, to kierujący nim nie powinien:
+a) gwałtownie hamować
+b) hamować silnikiem
+c) równocześnie wciskać pedałów sprzęgła i hamulca
+ac

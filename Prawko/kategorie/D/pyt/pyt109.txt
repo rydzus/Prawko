@@ -1,0 +1,5 @@
+109. Autobus miejski używany w komunikacji miejskiej i podmiejskiej może nie być wyposażony w:
+a) ogumione koło zapasowe,
+b) apteczkę doraźnej pomocy,
+c) ostrzegawczy trójkąt odblaskowy.
+ab

@@ -1,0 +1,5 @@
+117. Jadąc z dużą prędkością po wyboistej drodze, kierujący nie załadowanym zespołem pojazdów może spodziewać się, że:
+a) przyczepa będzie wykonywać ruchy poprzeczne w stosunku do kierunku jazdy
+b) poprawi się płynność prowadzenia zespołu
+c) przy gwałtownym hamowaniu przyczepa ustawi się ukośnie w stosunku do kierunku jazdy
+ac

@@ -1,0 +1,5 @@
+482. Lampki kontrolne informujące w czasie jazdy kierowcę o ważnym problemie technicznym są barwy:
+a) żółtej samochodowej
+b) zielonej
+c) czerwonej
+c

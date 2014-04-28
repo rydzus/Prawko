@@ -1,0 +1,5 @@
+61. Funkcjonariusze Straży Granicznej lub organów celnych mogą odmówić prawa przekroczenia granicy pojazdem, jeżeli pojazd:
+a) przekracza określone w przepisach dopuszczalne naciski osi
+b) przekracza określoną w przepisach dopuszczalną masę całkowitą
+c) kierowany jest przez osobę nie posiadającą przy sobie dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia OC posiadacza pojazdu lub opłacenie składki tego ubezpieczenia
+abc

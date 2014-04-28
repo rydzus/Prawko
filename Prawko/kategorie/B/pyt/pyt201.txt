@@ -1,0 +1,5 @@
+201. Na tym skrzyżowaniu kierujący pojazdem 1:
+a) ustępuje pierwszeństwa pojazdowi 3
+b) ustępuje pierwszeństwa pojazdowi 2
+c) przejeżdża pierwszy
+b

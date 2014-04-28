@@ -1,0 +1,5 @@
+26. Znak ten oznacza zakaz wjazdu pojazdów:
+a) o masie własnej ponad 7 t
+b) o rzeczywistej masie całkowitej ponad 7 t
+c) o dopuszczalnej masie całkowitej ponad 7 t
+b

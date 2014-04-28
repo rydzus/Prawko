@@ -1,0 +1,5 @@
+154. W tej sytuacji, przy skręcaniu w lewo, należy:
+a) zatrzymać się przed sygnalizatorem,
+b) przyjąć, że nie występuje kolizja z innymi uczestnikami ruchu,
+c) upewnić się, że przejazd nie spowoduje utrudnienia ruchu.
+ac

@@ -1,0 +1,5 @@
+110. Przejazd samochodu ciężarowego wymaga zezwolenia, jeżeli:
+a) nacisk osi przekracza wielkość określoną dla danej drogi
+b) ładunek wystaje z tyłu na odległość 1,5 m od tylnej płaszczyzny obrysu pojazdu
+c) przy szerokości pojazdu 2 m jego szerokość wraz z ładunkiem wynosi 2,6 m
+ac

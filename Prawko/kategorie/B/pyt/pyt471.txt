@@ -1,0 +1,5 @@
+471. W okresie docierania samochodu osobowego nie należy:
+a) jeździć z prędkością zbliżoną do maksymalnej
+b) włączać czwartego biegu
+c) osiągać wysokich obrotów silnika
+ac

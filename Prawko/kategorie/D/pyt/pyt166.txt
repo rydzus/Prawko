@@ -1,0 +1,5 @@
+166. Aby zapobiec uszkodzeniu alternatora, nie należy:
+a) odłączać akumulatora od masy pojazdu podczas pracy silnika
+b) uruchamiać silnika przy akumulatorze odłączonym od masy pojazdu
+c) pozostawiać na dłużej włączonego zapłonu w czasie unieruchomienia silnika
+abc

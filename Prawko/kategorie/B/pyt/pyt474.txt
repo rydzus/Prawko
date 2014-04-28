@@ -1,0 +1,5 @@
+474. Terminowe dokonywanie przeglądów technicznych pojazdu pozwala na utrzymanie:
+a) właściwego zużycia paliwa
+b) sprawności układu hamulcowego
+c) minimalnego zanieczyszczenia środowiska
+abc

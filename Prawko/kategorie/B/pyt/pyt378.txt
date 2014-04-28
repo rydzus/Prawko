@@ -1,0 +1,5 @@
+378. Kierujący samochodem osobowym powinien dostosować prędkość jazdy do:
+a) stanu i widoczności drogi
+b) warunków atmosferycznych
+c) natężenia ruchu pieszych i pojazdów
+abc

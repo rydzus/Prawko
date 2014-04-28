@@ -1,0 +1,5 @@
+57. Autobus przegubowy o długości przekraczającej 12 m można zaparkować na obszarze zabudowanym:
+a) na wszystkich drogach w miejscu, gdzie nie jest to zabronione
+b) na każdym parkingu
+c) tylko na wyznaczonych w tym celu parkingach
+c

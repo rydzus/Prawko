@@ -1,0 +1,5 @@
+136. W tej sytuacji zaleca się, aby kierujący autobusem zamierzając skręcić w lewo:
+a) oczekiwał przed skrzyżowaniem na możliwość wjazdu na pas 2
+b) oczekiwał na początku pasa 1 na możliwość wjazdu na pas 2
+c) wykorzystał pas 1 do zmiany pasa na 2
+c

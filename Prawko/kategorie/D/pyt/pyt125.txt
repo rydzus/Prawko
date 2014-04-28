@@ -1,0 +1,5 @@
+125. W celu ograniczenia prędkości autobusu zaleca się korzystać z hamulca:
+a) awaryjnego - na śliskiej nawierzchni
+b) silnikowego, tzw. "górskiego" - na spadku drogi
+c) roboczego - na suchej nawierzchni
+bc

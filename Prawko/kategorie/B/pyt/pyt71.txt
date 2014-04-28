@@ -1,0 +1,5 @@
+71. Widząc ten znak, kierujący pojazdem:
+a) skręcając w lewo, wjedzie na autostradę,
+b) skręcając w prawo, wjedzie na autostradę,
+c) jadąc na wprost, wjedzie na drogę ekspresową.
+ab

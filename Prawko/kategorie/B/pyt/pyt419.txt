@@ -1,0 +1,5 @@
+419. Kierującemu nie wolno używać pojazdu:
+a) do ciągnięcia za nim osób np.  na sankach lub nartach
+b) powodującego nadmierną emisję spalin do środowiska
+c) powodującego nadmierny hałas
+abc

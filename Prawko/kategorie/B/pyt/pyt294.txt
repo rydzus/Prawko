@@ -1,0 +1,5 @@
+294. Widząc te znaki umieszczone na drodze o dopuszczalnej prędkości przekraczającej 60 km/h, kierujący pojazdem:
+a) jest ostrzeżony o przejeździe kolejowym z zaporami
+b) jest ostrzeżony o przejeździe kolejowym bez zapór
+c) jest w odległości 150-300 m od przejazdu kolejowego
+ac

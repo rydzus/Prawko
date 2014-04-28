@@ -1,0 +1,5 @@
+308. W tej sytuacji kierujący pojazdem widząc toczącą się po jezdni piłkę powinien:
+a) uważnie obserwować bawiące się dzieci
+b) być przygotowanym do zatrzymania pojazdu
+c) liczyć się z tym, że dzieci mogą wbiec na jezdnię
+abc

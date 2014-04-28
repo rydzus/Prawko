@@ -1,0 +1,5 @@
+291. Zagrożenie bezpieczeństwa ruchu drogowego na przejeździe kolejowym może stworzyć kierujący pojazdem, który:
+a) wjeżdża na tory bez upewnienia się, czy nie zbliża się pociąg
+b) wyprzedza pojazdy bezpośrednio przed przejazdem
+c) wyprzedza pojazdy na przejeździe
+abc

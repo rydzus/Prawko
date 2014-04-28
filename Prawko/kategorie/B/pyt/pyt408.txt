@@ -1,0 +1,5 @@
+408. Kierującemu samochodem osobowym nie wolno:
+a) holować pojazdu kierowanego przez osobę w stanie po spożyciu alkoholu
+b) wjeżdżać na pas dzielący jezdnię
+c) zaśmiecać lub zanieczyszczać drogę
+abc

@@ -1,0 +1,5 @@
+266. Przed rozpoczęciem wyprzedzania kierujący pojazdem powinien upewnić się, czy:
+a) ma odpowiednią widoczność
+b) ma dostateczne miejsce do wyprzedzania
+c) nie utrudni ruchu innym pojazdom
+abc

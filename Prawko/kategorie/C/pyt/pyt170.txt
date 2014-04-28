@@ -1,0 +1,5 @@
+170. Po uszkodzeniu jednego z podwójnych pasków klinowych napędu alternatora:
+a) można wymienić tylko pasek uszkodzony
+b) może on być napędzany przez dłuższy czas tylko jednym paskiem
+c) należy założyć dwa nowe paski
+c

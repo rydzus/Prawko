@@ -1,0 +1,5 @@
+40. W tej sytuacji ruszając z przystanku kierujący autobusem 1:
+a) może zmienić pas ruchu niezależnie od położenia pojazdu 2
+b) może zmienić pas ruchu po upewnieniu się, że pojazd 2 zmniejsza prędkość, aby umożliwić mu włączenie się do ruchu
+c) może wjechać na lewy skrajny pas ruchu przed pojazdem 3
+b

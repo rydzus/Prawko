@@ -1,0 +1,5 @@
+478. Która z tych lampek kontrolnych świecąc informuje o jeździe na światłach mijania?
+a) A
+b) B
+c) C
+c

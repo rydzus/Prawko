@@ -1,0 +1,5 @@
+142. W tej sytuacji kierujący stojącym pojazdem:
+a) może skręcić w prawo,
+b) powinien przygotować się do jazdy,
+c) może przekroczyć linię zatrzymania, dopiero po zmianie sygnału na zielony.
+bc

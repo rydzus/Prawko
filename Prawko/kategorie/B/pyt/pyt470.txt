@@ -1,0 +1,5 @@
+470. Droga hamowania samochodu osobowego na oblodzonej jezdni, jest:
+a) dłuższa od drogi hamowania na jezdni suchej,
+b) równa drodze hamowania na jezdni mokrej,
+c) dłuższa od drogi hamowania na jezdni mokrej. 
+ac

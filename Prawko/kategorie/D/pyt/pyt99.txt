@@ -1,0 +1,5 @@
+99. Kierujący autobusem może podczas jazdy spożywać posiłki i palić tytoń, jeżeli:
+a) przewozi osoby
+b) nie przewozi osób
+c) jedzie tylko z drugim kierowcą
+b

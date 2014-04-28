@@ -1,0 +1,5 @@
+85. Znak ten (linia podwójna ciągła):
+a) rozdziela pasy o przeciwnych kierunkach ruchu,
+b) rozdziela pasy o tym samym kierunku ruchu,
+c) zabrania przejeżdżania na sąsiedni pas ruchu.
+ac

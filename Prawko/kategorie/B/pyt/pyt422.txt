@@ -1,0 +1,5 @@
+422. Przewożony ładunek powinien być umieszczony w taki sposób, aby:
+a) nie naruszał stateczności pojazdu
+b) nie utrudniał kierowania pojazdem
+c) nie ograniczał widoczności drogi
+abc

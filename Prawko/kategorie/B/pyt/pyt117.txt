@@ -1,0 +1,5 @@
+117. Te znaki poziome umieszczone na pasach ruchu:
+a) określają dopuszczalną prędkość jazdy,
+b) określają nakazaną prędkość jazdy,
+c) oznaczają wjazd do strefy ograniczonej prędkości.
+a

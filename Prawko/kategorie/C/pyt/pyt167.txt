@@ -1,0 +1,5 @@
+167. Całkowity luz układu kierowniczego w samochodzie ciężarowym sprawdza się:
+a) na kole kierownicy
+b) na przednich kołach
+c) przy kołach przednich ustawionych do jazdy na wprost
+ac

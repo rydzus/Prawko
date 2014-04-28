@@ -1,0 +1,5 @@
+421. Rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy:
+a) powinna być mniejsza co najmniej o 40% od rzeczywistej masy całkowitej tego samochodu
+b) może przekraczać rzeczywistą masę całkowitą tego samochodu, jednak nie więcej niż o 40%
+c) nie może przekraczać rzeczywistej masy całkowitej tego samochodu
+c

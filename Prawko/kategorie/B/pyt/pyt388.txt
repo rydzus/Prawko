@@ -1,0 +1,5 @@
+388. Który znak zabrania samochodom osobowym wjazdu na drogę, przed którą jest umieszczony?
+a) A
+b) B
+c) C
+abc

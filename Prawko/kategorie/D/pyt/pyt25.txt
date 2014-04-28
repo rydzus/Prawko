@@ -1,0 +1,5 @@
+25. Znak ten zabrania wjazdu:
+a) tylko samochodom ciężarowym o długości ponad 8 m
+b) autobusom o długości ponad 8 m
+c) autobusom przegubowym o długości ponad 8 m
+bc

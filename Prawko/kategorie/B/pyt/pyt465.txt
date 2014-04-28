@@ -1,0 +1,5 @@
+465. Całkowita droga zatrzymania samochodu osobowego na suchej jezdni o nawierzchni bitumicznej, jadącego z prędkością 110 km/h, mieści się w przedziale:
+a) 90-135 m
+b) 70-80 m
+c) 50-60 m
+a

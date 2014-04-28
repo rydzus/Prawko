@@ -1,0 +1,5 @@
+181. Na tym skrzyżowaniu kierujący pojazdem 1:
+a) przejeżdża ostatni,
+b) ma pierwszeństwo przed pojazdem 2,
+c) ma pierwszeństwo przed pojazdem 3.
+c

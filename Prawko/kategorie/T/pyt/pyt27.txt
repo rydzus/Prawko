@@ -1,0 +1,5 @@
+27. Ciągnik rolniczy można zaparkować:
+a) na chodniku
+b) na jezdni równolegle do jej krawędzi
+c) na jezdni ukośnie do jej krawędzi
+b

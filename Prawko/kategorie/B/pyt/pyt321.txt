@@ -1,0 +1,5 @@
+321. W tej sytuacji kierujący pojazdem 1:
+a) powinien ograniczyć zaufanie do kierującego pojazdem 2
+b) może użyć sygnału świetlnego
+c) może użyć sygnału dźwiękowego
+abc

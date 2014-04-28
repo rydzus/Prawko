@@ -1,0 +1,5 @@
+62. Kierujący autobusem szkolnym powinien:
+a) włączyć światła awaryjne - podczas wsiadania lub wysiadania dzieci
+b) oznaczyć autobus z przodu i z tyłu tablicami z napisem "autobus szkolny", jeżeli przewozi dzieci
+c) zdjąć, zasłonić lub złożyć tablice z napisem "autobus szkolny", jeżeli nie przewozi żadnych osób lub przewozi inne niż dzieci osoby
+abc

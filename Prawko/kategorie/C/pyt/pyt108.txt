@@ -1,0 +1,5 @@
+108. Ładunek wystający z przodu pojazdu może być oznaczony:
+a) w okresie dobrej widoczności dwoma białymi i dwoma czerwonymi pasami widocznymi z boków i z przodu pojazdu
+b) w okresie dobrej widoczności chorągiewką barwy pomarańczowej widoczną z boków i z przodu pojazdu
+c) w okresie niedostatecznej widoczności światłem białym oraz chorągiewką barwy pomarańczowej widoczną z boków i z przodu pojazdu
+abc

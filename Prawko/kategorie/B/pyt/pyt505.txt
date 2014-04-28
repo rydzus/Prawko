@@ -1,0 +1,5 @@
+505. Wjazd na drogę oznaczoną tym znakiem jest:
+a) dozwolony od strony tego znaku dla pojazdów kierowanych przez osoby niepełnosprawne o obniżonej sprawności ruchowej,
+b) zabroniony z obu stron tej drogi,
+c) zabroniony od strony tego znaku.
+c

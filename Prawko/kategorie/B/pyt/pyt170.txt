@@ -1,0 +1,5 @@
+170. Sygnały te są przeznaczona dla:
+a) pieszych,
+b) rowerzystów,
+c) kierujących autobusami wykonującymi odpłatny przewóz osób na regularnych liniach.
+abc

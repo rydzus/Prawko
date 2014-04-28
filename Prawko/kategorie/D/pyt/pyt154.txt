@@ -1,0 +1,5 @@
+154. Przyczyną białego lub błękitnego zabarwienia spalin w autobusie z silnikiem o zapłonie samoczynnym może być:
+a) źle ustawiony początek wtrysku
+b) zbyt dużo oleju smarującego silnik w komorze spalania
+c) woda w komorze spalania
+bc

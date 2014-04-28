@@ -1,0 +1,5 @@
+385. Widząc ten znak kierujący pojazdem jest ostrzegany o:
+a) poprzecznej nierówności jezdni,
+b) wypukłości na jezdni, zastosowanej w celu spowolnienia ruchu pojazdów,
+c) znacznym wzniesieniu drogi. 
+b

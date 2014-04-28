@@ -1,0 +1,5 @@
+56. W tej sytuacji postój uszkodzonego zespołu pojazdów:
+a) może nie być sygnalizowany
+b) powinien być sygnalizowany przez cały czas postoju pojazdów
+c) powinien być sygnalizowany tylko w warunkach niedostatecznej widoczności
+b

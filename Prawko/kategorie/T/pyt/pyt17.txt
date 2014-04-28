@@ -1,0 +1,5 @@
+17. Znak ten zabrania wjazdu ciągnikom rolniczym z przyczepą, gdy:
+a) nacisk osi ciągnika rolniczego jest większy od nacisku odpowiadającego masie 2 t
+b) suma nacisków dwóch osi przyczepy odpowiada masie 2 t
+c) nacisk jednej z osi przyczepy jest większy od nacisku odpowiadającego masie 2 t
+ac

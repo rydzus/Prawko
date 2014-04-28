@@ -1,0 +1,5 @@
+72. W tej sytuacji kierujący pojazdem:
+a) jest uprzedzony o dozwolonych kierunkach jazdy z poszczególnych pasów ruchu,
+b) może zawrócić na skrzyżowaniu,
+c) nie może jechać na wprost przez skrzyżowanie z prawego pasa ruchu.
+abc

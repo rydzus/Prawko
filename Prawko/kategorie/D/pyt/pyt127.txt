@@ -1,0 +1,5 @@
+127. Układ przeciwpoślizgowy (ASR) w autobusie zapobiega:
+a) blokowaniu się kół podczas hamowania
+b) jałowemu obracaniu się kół, na śliskiej nawierzchni
+c) znoszeniu tyłu pojazdu członowego na łuku drogi
+bc

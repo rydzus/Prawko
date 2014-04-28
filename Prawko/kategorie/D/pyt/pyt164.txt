@@ -1,0 +1,5 @@
+164. Objawem wskazującym na konieczność spuszczenia skondensowanej wody z pneumatycznego układu hamulcowego autobusu jest:
+a) znaczne zmniejszanie się ciśnienia przy każdym hamowaniu
+b) znaczne skrócenie się czasu jego napełniania powietrzem
+c) wzrost ciśnienia powietrza w układzie powyżej ciśnienia dopuszczalnego
+ab

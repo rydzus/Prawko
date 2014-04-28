@@ -1,0 +1,5 @@
+402. Postój pojazdu za tym znakiem jest:
+a) dozwolony, pod warunkiem uiszczenia opłaty
+b) dozwolony bez konieczności uiszczenia opłaty, jeżeli nie trwa dłużej niż 3 minuty
+c) zabroniony na czas dłuższy niż 1 godzina, bez względu na wysokość uiszczonej opłaty
+a

@@ -1,0 +1,5 @@
+483. Przed rozpoczęciem dłuższej jazdy zaleca się sprawdzić poziom:
+a) oleju w silniku
+b) płynu w układzie hamulcowym
+c) płynu w układzie chłodzenia i zbiorniku spryskiwacza szyb
+abc

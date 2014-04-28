@@ -1,0 +1,5 @@
+230. Na tym skrzyżowaniu kierujący pojazdem 1 ustępuje pierwszeństwa pojazdowi:
+a) 2
+b) 3
+c) 4
+ab

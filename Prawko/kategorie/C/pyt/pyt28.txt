@@ -1,0 +1,5 @@
+28. Znak ten zabrania wjazdu:
+a) samochodom ciężarowym o długości ponad 6 m
+b) zespołom pojazdów o długości ponad 6 m
+c) samochodom ciężarowym o długości poniżej 6 m
+ab

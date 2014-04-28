@@ -1,0 +1,5 @@
+281. W tej sytuacji kierujący pojazdem powinien:
+a) przyspieszyć, starając się przejechać przed pieszym
+b) zatrzymać pojazd przed przejściem dla pieszych
+c) obserwować całe otoczenie przejścia dla pieszych
+bc

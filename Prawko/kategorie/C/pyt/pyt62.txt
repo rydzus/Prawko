@@ -1,0 +1,5 @@
+62. Kierowca samochodu ciężarowego o dopuszczalnej masie całkowitej 8 t w trakcie kontroli drogowej ma obowiązek okazać następujące dokumenty, w jakie wyposażył go pracodawca:
+a) zaświadczenie poświadczające spełnienie przez kierowcę wymagań ustawy o transporcie drogowym
+b) upoważnienie do odbioru przesyłki
+c) wypis z licencji na krajowy transport drogowy
+ac

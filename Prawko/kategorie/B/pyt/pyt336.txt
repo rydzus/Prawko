@@ -1,0 +1,5 @@
+336. W tej sytuacji, gdy zatrzymanie trwa ponad jedną minutę, światła zewnętrzne może wyłączyć kierujący pojazdem:
+a) 1
+b) 2
+c) 3
+b

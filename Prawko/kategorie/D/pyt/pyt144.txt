@@ -1,0 +1,5 @@
+144. Która z tych lampek kontrolnych powinna zgasnąć po uruchomieniu silnika w autobusie?
+a) A
+b) B
+c) C
+ac

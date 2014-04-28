@@ -1,0 +1,5 @@
+156. Nierównomierna praca silnika o zapłonie samoczynnym może być spowodowana:
+a) zapowietrzeniem układu zasilania
+b) niewłaściwymi luzami zaworowymi silnika
+c) wadliwą pracą wtryskiwaczy
+abc

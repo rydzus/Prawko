@@ -1,0 +1,5 @@
+449. Przed uruchomieniem silnika w niskiej temperaturze otoczenia należy:
+a) ustawić dźwignię zmiany biegów w położeniu neutralnym "luz"
+b) wcisnąć pedał sprzęgła
+c) wyłączyć zbędne odbiorniki prądu
+abc

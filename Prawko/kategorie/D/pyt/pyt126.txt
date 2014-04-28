@@ -1,0 +1,5 @@
+126. Kierujący zespołem pojazdów wyposażonym w pneumatyczny układ hamulcowy powinien uwzględnić to, że:
+a) autobus hamuje wcześniej niż przyczepa
+b) oba pojazdy hamują równocześnie
+c) przyczepa hamuje wcześniej niż autobus
+c

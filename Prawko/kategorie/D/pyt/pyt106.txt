@@ -1,0 +1,5 @@
+106. Autobus powinien być wyposażony w:
+a) dwie gaśnice, jeżeli jego długość przekracza 6 m
+b) dwie gaśnice niezależnie od długości pojazdu
+c) wyjścia awaryjne, do których dostęp nie powinien być niczym utrudniony
+ac

@@ -1,0 +1,5 @@
+59. Przed rozpoczęciem jazdy należy umieścić tę tablicę wyróżniającą:
+a) z tyłu ciągnika rolniczego, jeżeli nie ciągnie przyczepy
+b) z tyłu przyczepy ciągniętej przez ciągnik rolniczy
+c) prostopadle i symetrycznie do osi podłużnej pojazdu lub po jego lewej stronie oraz prostopadle do powierzchni jezdni
+abc

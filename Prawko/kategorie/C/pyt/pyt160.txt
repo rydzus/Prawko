@@ -1,0 +1,5 @@
+160. Regulując luzy zaworów należy pamiętać, że:
+a) czynność tę wykonuje się bezpośrednio po unieruchomieniu silnika
+b) zawory ssące mają mniejszy luz niż zawory wydechowe
+c) niewłaściwy luz zaworowy może być przyczyną utraty mocy silnika
+bc

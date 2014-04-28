@@ -1,0 +1,5 @@
+64. Znak umieszczony pod sygnalizatorem:
+a) zobowiązuje do skrętu w prawo na skrzyżowaniu,
+b) zabrania skrętu w lewo na skrzyżowaniu,
+c) zobowiązuje do jazdy z prawej strony tego znaku.
+c

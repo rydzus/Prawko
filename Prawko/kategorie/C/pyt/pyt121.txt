@@ -1,0 +1,5 @@
+121. Kierujący cysterną napełnioną do połowy płynem powinien być przygotowany na:
+a) możliwość wywrócenia się pojazdu, gdy jedzie zbyt szybko po łuku
+b) poprawę komfortu jazdy
+c) możliwość blokowania tylnych kół podczas gwałtownego hamowania
+ac

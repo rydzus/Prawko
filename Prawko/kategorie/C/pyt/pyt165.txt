@@ -1,0 +1,5 @@
+165. Podczas wymiany koła na tylnej osi samochodu ciężarowego:
+a) kierujący nie powinien wchodzić pod pojazd
+b) zaleca się podłożyć kliny pod koła
+c) śruby lub nakrętki powinny być dokręcane kluczem bez użycia dodatkowego przedłużacza
+abc

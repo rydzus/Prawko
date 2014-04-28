@@ -1,0 +1,5 @@
+55. Światła awaryjne samochodu ciężarowego:
+a) mogą być użyte, gdy pojazd ten jest holowany
+b) mogą być użyte w razie postoju uszkodzonego pojazdu na poboczu drogi ekspresowej
+c) nie mogą być użyte podczas rozładunku sprawnego technicznie pojazdu
+bc

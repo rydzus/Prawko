@@ -1,0 +1,5 @@
+287. W tej sytuacji kierujący pojazdem powinien zatrzymać pojazd:
+a) tuż przed przejściem dla pieszych
+b) na wysokości znaku oznaczającego przystanek
+c) w takim miejscu, aby zapewnić pieszym dojście do tramwaju
+c

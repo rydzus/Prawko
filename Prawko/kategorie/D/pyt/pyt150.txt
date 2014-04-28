@@ -1,0 +1,5 @@
+150. Nierównomierna praca silnika o zapłonie samoczynnym może być spowodowana:
+a) pęknięciem sprężyny wtryskiwacza
+b) zanieczyszczeniem filtru paliwa
+c) pęknięciem przewodu wysokiego ciśnienia
+abc

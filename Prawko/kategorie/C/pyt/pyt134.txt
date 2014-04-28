@@ -1,0 +1,5 @@
+134. Kierujący zespołem pojazdów wyposażonym w pneumatyczny układ hamulcowy powinien uwzględnić to, że:
+a) przyczepa hamuje wcześniej niż pojazd ciągnący
+b) oba pojazdy hamują równocześnie
+c) przyczepa hamuje później niż pojazd ciągnący
+a

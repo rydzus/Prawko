@@ -1,0 +1,5 @@
+105. Ładunek sypki przewożony samochodem ciężarowym powinien być:
+a) umieszczony w szczelnej skrzyni ładunkowej
+b) przewożony tylko w stanie wilgotnym
+c) dodatkowo zabezpieczony odpowiednimi zasłonami uniemożliwiającymi wysypywanie się na drogę
+ac

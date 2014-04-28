@@ -1,0 +1,5 @@
+122. Tzw. zwalniacz w autobusie powinien być wyłączony:
+a) gdy silnik pracuje i dźwignia zmiany biegów jest w położeniu neutralnym
+b) po zaparkowaniu pojazdu
+c) podczas jazdy po śliskiej nawierzchni
+abc

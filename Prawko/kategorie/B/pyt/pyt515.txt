@@ -1,0 +1,5 @@
+515. Włączenie się do ruchu następuje przy wyjeździe:
+a) z pobocza na jezdnię,
+b) z drogi gruntowej na drogę twardą,
+c) ze strefy zamieszkania.
+abc

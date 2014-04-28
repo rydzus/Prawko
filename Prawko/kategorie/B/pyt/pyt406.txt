@@ -1,0 +1,5 @@
+406. Kierującemu samochodem osobowym nie wolno:
+a) przewozić na przednim siedzeniu dziecka w wieku do 12 lat (bez specjalnego fotelika) 
+b) rozpocząć jazdy, jeżeli nie wszystkie przewożone osoby zapięły pasy bezpieczeństwa - chyba, że są zwolnione z ich użycia
+c) przewozić na przednim siedzeniu dziecka siedzącego w foteliku ochronnym tyłem do kierunku jazdy, jeżeli pojazd jest wyposażony w poduszkę powietrzną dla pasażera
+abc

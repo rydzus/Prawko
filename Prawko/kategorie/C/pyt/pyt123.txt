@@ -1,0 +1,5 @@
+123. Kierujący samochodem ciężarowym wyposażonym w blokadę mechanizmu różnicowego:
+a) nie powinien włączać blokady w sytuacji, gdy koła utraciły przyczepność
+b) powinien włączać blokadę przed wjechaniem na śliską lub grząską nawierzchnię
+c) nie powinien po włączeniu blokady poruszać się po twardej nawierzchni
+abc

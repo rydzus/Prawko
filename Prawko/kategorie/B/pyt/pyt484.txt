@@ -1,0 +1,5 @@
+484. Kontrola hydraulicznego hamulca roboczego polega na:
+a) obserwacji tylko lampki kontrolnej
+b) sprawdzeniu luzu na pedale hamulca
+c) sprawdzeniu poziomu płynu hamulcowego w zbiorniku
+bc

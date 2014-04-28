@@ -1,0 +1,5 @@
+504. Znak ten ostrzega kierującego pojazdem o:
+a) możliwości poślizgu na jezdni,
+b) poprzecznej nierówności jezdni,
+c) wypukłości spowalniającej ruch pojazdów.
+c

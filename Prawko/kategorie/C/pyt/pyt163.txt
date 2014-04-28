@@ -1,0 +1,5 @@
+163. Objawem wskazującym na zebranie się w zbiorniku powietrza pneumatycznego układu hamulcowego samochodu ciężarowego zbyt dużej ilości wody może być:
+a) widoczne zmniejszanie się ciśnienia przy każdym hamowaniu
+b) wzrost ciśnienia w układzie hamulcowym powyżej ciśnienia dopuszczalnego
+c) znaczne skrócenie się czasu jego napełniania powietrzem
+ac

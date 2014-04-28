@@ -1,0 +1,5 @@
+161. Skuteczność hamulców w samochodzie ciężarowym sprawdza się przez pomiar:
+a) opóźnienia hamowania
+b) drogi hamowania
+c) siły hamowania
+ac

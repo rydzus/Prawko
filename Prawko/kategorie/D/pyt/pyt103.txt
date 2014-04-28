@@ -1,0 +1,5 @@
+103. Autobus szkolny powinien być wyposażony w:
+a) sygnał akustyczny ostrzegający na zewnątrz o cofaniu pojazdu,
+b) ostrzegawczy sygnał świetny błyskowy barwy żółtej samochodowej,
+c) urządzenie zapobiegające przed ruszeniem pojazdu z otwartymi drzwiami.
+abc

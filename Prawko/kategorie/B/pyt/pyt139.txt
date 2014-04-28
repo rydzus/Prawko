@@ -1,0 +1,5 @@
+139. W tej sytuacji kierujący stojącym pojazdem:
+a) może dojechać do sygnalizatora,
+b) może dojechać do jezdni drogi poprzecznej,
+c) powinien przygotować się do jazdy.
+c

@@ -1,0 +1,5 @@
+428. Właściciel zarejestrowanego pojazdu powinien w ciągu 30 dni zawiadomić urząd rejestrujący pojazdy o:
+a) jego nabyciu
+b) zmianie stanu faktycznego wymagającej zmiany danych zamieszczonych w dowodzie rejestracyjnym
+c) jego zbyciu
+abc

@@ -1,0 +1,5 @@
+243. Który pojazd jest w tej sytuacji nieprawidłowo zaparkowany na chodniku?
+a) 1
+b) 2
+c) 3
+ac

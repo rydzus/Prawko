@@ -1,0 +1,5 @@
+338. Podczas postoju na poboczu w warunkach niedostatecznej widoczności, kierujący zespołem pojazdów może używać świateł:
+a) postojowych jedynie od środka jezdni, jeżeli długość zespołu nie przekracza 6 m
+b) awaryjnych
+c) pozycyjnych przednich i tylnych
+ac

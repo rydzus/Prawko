@@ -1,0 +1,5 @@
+110. Która z tych lampek kontrolnych nie powinna świecić się podczas ruszania autobusem:
+a) A
+b) B
+c) C
+abc

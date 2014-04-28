@@ -1,0 +1,5 @@
+391. Który znak zobowiązuje kierującego do zatrzymania pojazdu?
+a) A
+b) B
+c) C
+bc

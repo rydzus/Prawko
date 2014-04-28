@@ -1,0 +1,5 @@
+164. Jeżeli w dwuobwodowym pneumatycznym układzie hamulcowym jeden z obwodów będzie nieszczelny, to:
+a) w zbiorniku tego obwodu nie będzie powietrza
+b) wieloobwodowy zawór bezpieczeństwa umożliwi zasilanie powietrzem nieszczelnego obwodu
+c) wieloobwodowy zawór bezpieczeństwa odłączy nieszczelny obwód
+b

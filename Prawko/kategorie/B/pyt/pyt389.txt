@@ -1,0 +1,5 @@
+389. Znak ten zabrania wjazdu:
+a) samochodom osobowym
+b) motocyklom jednośladowym
+c) ciągnikom rolniczym
+ac

@@ -1,0 +1,5 @@
+398. W miejscu oznaczonym tym znakiem możliwe jest parkowanie na chodniku samochodów osobowych:
+a) równolegle do krawędzi jezdni
+b) bezpośrednio przy krawędzi jezdni
+c) w dowolnym miejscu, tak aby pozostawić co najmniej 1,5 m jego szerokości dla pieszych
+ab

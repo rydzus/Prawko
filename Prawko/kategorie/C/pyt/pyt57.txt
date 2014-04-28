@@ -1,0 +1,5 @@
+57. W tej sytuacji postój uszkodzonego zespołu pojazdów:
+a) powinien być sygnalizowany niezależnie od warunków widoczności, przez całą dobę
+b) może nie być sygnalizowany, jeżeli jest on widoczny z dostatecznej odległości
+c) powinien być sygnalizowany tylko przez włączenie świateł pozycyjnych
+b

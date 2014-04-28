@@ -1,0 +1,5 @@
+311. W tej sytuacji kierujący samochodem osobowym:
+a) powinien jechać w odległości 100 m za pojazdem uprzywilejowanym
+b) nie może wyprzedzić pojazdu uprzywilejowanego - na obszarze zabudowanym
+c) nie może wyprzedzić pojazdu uprzywilejowanego - poza obszarem zabudowanym
+b

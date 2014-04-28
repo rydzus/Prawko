@@ -1,0 +1,5 @@
+19. Widząc ten znak kierujący samochodem ciężarowym o rzeczywistej masie całkowitej 10 t:
+a) może dojechać tylko do znaku
+b) może jechać nie dalej niż 700 m za znakiem
+c) wie, że po przejechaniu 700 m nie będzie mu wolno dalej jechać
+bc

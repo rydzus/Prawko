@@ -1,0 +1,5 @@
+133. Kierujący zespołem pojazdów, w którym przyczepa wyposażona jest w hamulec najazdowy, powinien wiedzieć, że:
+a) przyczepa hamuje później niż pojazd ciągnący
+b) przyczepa hamuje wcześniej niż pojazd ciągnący
+c) na początku hamowania przyczepa może napierać na pojazd ciągnący
+ac

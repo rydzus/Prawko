@@ -1,0 +1,5 @@
+236. W tej sytuacji skrzyżowanie może opuścić pojazd:
+a) 1
+b) 2
+c) 3
+c

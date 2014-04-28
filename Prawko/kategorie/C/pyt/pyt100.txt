@@ -1,0 +1,5 @@
+100. Ładunek przewożony samochodem ciężarowym:
+a) nie może naruszać stateczności pojazdu
+b) nie powinien utrudniać kierowania pojazdem
+c) może nie być zabezpieczony przed wysypywaniem się, jeżeli jego pryzma nie wystaje ponad burty skrzyni ładunkowej
+ab

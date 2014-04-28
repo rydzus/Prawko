@@ -1,0 +1,5 @@
+132. Zaleca się holować autobus:
+a) z uruchomionym silnikiem, jeżeli to możliwe
+b) używając połączenia sztywnego
+c) z odłączonymi akumulatorami
+ab

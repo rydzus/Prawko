@@ -1,0 +1,5 @@
+301. W razie uczestniczenia w wypadku drogowym, kierujący pojazdem powinien podać na żądanie osób w nim uczestniczących:
+a) swoje dane personalne
+b) dane personalne właściciela lub posiadacza pojazdu
+c) dane zakładu ubezpieczeń, z którym zawarta jest umowa ubezpieczenia OC
+abc

@@ -1,0 +1,5 @@
+113. Ta linia przerywana wyznacza pas ruchu:
+a) powolnego,
+b) przeznaczony na postój pojazdu,
+c) przeznaczony do ruchu pojazdów wykonujących odpłatny przewóz osób.
+b

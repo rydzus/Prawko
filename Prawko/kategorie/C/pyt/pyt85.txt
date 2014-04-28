@@ -1,0 +1,5 @@
+85. Badanie w celu ustalenia zawartości alkoholu w organizmie może być przeprowadzone:
+a) bez zgody kierującego, o czym powinien być uprzedzony
+b) przy użyciu urządzeń elektronicznych dokonujących pomiaru stężenia alkoholu w wydychanym powietrzu
+c) na żądanie policjanta w związku z kontrolą drogową
+abc

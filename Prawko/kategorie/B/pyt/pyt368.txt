@@ -1,0 +1,5 @@
+368. W tej sytuacji dopuszczalna prędkość samochodu osobowego:
+a) wynosi 130 km/h
+b) wynosi 140 km/h
+c) nie jest określona przepisami
+b

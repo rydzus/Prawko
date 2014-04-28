@@ -1,0 +1,5 @@
+102. Jadąc pasem ruchu oznaczonym tym znakiem, kierujący pojazdem jest:
+a) uprzedzony o nakazie skrętu w prawo na najbliższym skrzyżowaniu
+b) uprzedzony o końcu tego pasa ruchu,
+c) zobowiązany do wjazdu na prawy pas ruchu.
+bc

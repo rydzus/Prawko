@@ -1,0 +1,5 @@
+162. Skuteczność hamowania autobusu sprawdza się przez pomiar:
+a) drogi hamowania
+b) opóźnienia hamowania
+c) siły hamowania
+bc

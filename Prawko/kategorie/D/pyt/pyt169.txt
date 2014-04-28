@@ -1,0 +1,5 @@
+169. Dokonywanie regularnych przeglądów technicznych autobusu:
+a) nie jest konieczne
+b) jest korzystne tylko w okresie objętym gwarancją
+c) jest konieczne, gdyż pozwala utrzymać pojazd we właściwej sprawności
+c

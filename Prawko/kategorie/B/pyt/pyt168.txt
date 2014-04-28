@@ -1,0 +1,5 @@
+168. Sygnał ten oznacza nakaz:
+a) opuszczenia pasa ruchu, nad którym umieszczony jest nadający go sygnalizator,
+b) skręcenia w prawo na skrzyżowaniu,
+c) wjazdu na prawą część jezdni.
+ac

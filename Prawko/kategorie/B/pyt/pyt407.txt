@@ -1,0 +1,5 @@
+407. Kierującemu samochodem osobowym nie wolno:
+a) otwierać drzwi pojazdu bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu
+b) wysiadać z pojazdu, bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu
+c) kierować pojazdem w stanie po spożyciu alkoholu lub środka podobnie działającego do alkoholu
+abc

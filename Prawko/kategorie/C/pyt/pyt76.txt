@@ -1,0 +1,5 @@
+76. Tablicami wyróżniającymi pojazdy samochodowe oraz przyczepy oznakowuje się:
+a) samochód ciężarowy, którego dopuszczalna masa całkowita przekracza 12 t, z wyjątkiem ciągnika siodłowego
+b) zespół pojazdów składający się z samochodu ciężarowego i przyczepy, którego długość przekracza 8 m
+c) zespół pojazdów składający się z samochodu ciężarowego i przyczepy, którego dopuszczalna masa całkowita przekracza 12 t
+abc

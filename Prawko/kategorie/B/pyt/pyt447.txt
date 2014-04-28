@@ -1,0 +1,5 @@
+447. Jazda z częściowo zaparowanymi szybami pojazdu:
+a) jest niedopuszczalna, jeżeli jest to szyba przednia
+b) może być przyczyną wypadku drogowego
+c) nie ma wpływu na bezpieczeństwo jazdy
+ab

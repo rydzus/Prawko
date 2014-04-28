@@ -1,0 +1,5 @@
+507. Znak ten zabrania wjazdu:
+a) pojazdom wolnobieżnym,
+b) motocyklom jednośladowym,
+c) pojazdom zaprzęgowym.
+a

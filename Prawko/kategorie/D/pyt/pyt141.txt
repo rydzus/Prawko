@@ -1,0 +1,5 @@
+141. Po uruchomieniu silnika kierujący autobusem powinien sprawdzić:
+a) ciśnienie oleju w silniku
+b) ciśnienie powietrza w pneumatycznym układzie hamulcowym
+c) stan lampek kontrolnych
+abc

@@ -1,0 +1,5 @@
+323. W tej sytuacji, podczas wyprzedzania we mgle, kierujący pojazdem silnikowym 1 powinien:
+a) mieć włączone światła drogowe
+b) dawać krótkotrwałe sygnały dźwiękowe
+c) mieć włączone światła mijania lub przeciwmgłowe przednie, albo oba jednocześnie
+bc

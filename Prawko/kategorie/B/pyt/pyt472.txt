@@ -1,0 +1,5 @@
+472. W samochodzie osobowym z silnikiem benzynowym, wyposażonym w katalizator, jako paliwo można stosować:
+a) dowolny rodzaj benzyny
+b) wyłącznie benzynę bezołowiową
+c) olej napędowy
+b

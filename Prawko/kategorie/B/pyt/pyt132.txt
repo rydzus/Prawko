@@ -1,0 +1,5 @@
+132. W tej sytuacji, gdy pojazd może być zatrzymany przed sygnalizatorem bez gwałtownego hamowania:
+a) zabrania się wjazdu za sygnalizator,
+b) można skręcić w lewo,
+c) można zawrócić.
+a

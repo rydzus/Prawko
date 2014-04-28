@@ -1,0 +1,5 @@
+250. W tej sytuacji kierujący pojazdem:
+a) może skręcić w prawo z pasa 3
+b) może skręcić w lewo z pasów 1 lub 2
+c) może zawrócić z pasa 2
+ab

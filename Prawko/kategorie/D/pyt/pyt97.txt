@@ -1,0 +1,5 @@
+97. Kierujący autobusem:
+a) powinien zadbać, aby możliwe było przechodzenie wzdłuż autobusu
+b) powinien umieścić bagaże w taki sposób, aby nie została naruszona stateczność pojazdu
+c) może spożywać posiłek w czasie przewożenia pasażerów
+ab

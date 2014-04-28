@@ -1,0 +1,5 @@
+172. W jaki sposób zabezpieczysz miejsce wypadku samochodowego?
+a) ustawię trójkąty ostrzegawcze
+b) bezpiecznie zaparkuje własny samochód
+c) wyłączę stacyjkę samochodu, który miał wypadek
+abc

@@ -1,0 +1,5 @@
+475. Samochód osobowy nie może być wyposażony w opony (z wyjątkiem krótkotrwałego użycia na określonych przepisami warunkach) :
+a) których wskaźniki pokazują graniczne zużycie bieżnika
+b) o głębokości rzeźby bieżnika mniejszej niż 1,6 mm, jeśli nie są zaopatrzone we wskaźniki pokazujące graniczne zużycie bieżnika
+c) różnej konstrukcji na kołach jednej osi
+abc

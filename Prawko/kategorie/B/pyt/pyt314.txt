@@ -1,0 +1,5 @@
+314. Holowany samochód osobowy powinien:
+a) być z tyłu po lewej stronie oznaczony ostrzegawczym trójkątem odblaskowym, jeżeli nie wysyła żółtych sygnałów błyskowych
+b) mieć włączone światła mijania
+c) mieć włączone światła pozycyjne w okresie niedostatecznej widoczności
+ac

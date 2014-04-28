@@ -1,0 +1,5 @@
+1. W tej sytuacji kierujący pojazdem jest ostrzegany o:
+a) jednym niebezpiecznym zakręcie w prawo,
+b) dwóch niebezpiecznych zakrętach, z których pierwszy jest w prawo,
+c) nieokreślonej liczbie niebezpiecznych zakrętów.
+a

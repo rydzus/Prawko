@@ -1,0 +1,5 @@
+103. Ładunek przewożony samochodem ciężarowym powinien być zabezpieczony przed:
+a) wywoływaniem nadmiernego hałasu
+b) zaśmiecaniem drogi
+c) zmianą położenia
+abc

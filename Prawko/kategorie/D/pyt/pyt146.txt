@@ -1,0 +1,5 @@
+146. Powodem świecenia się w czasie jazdy autobusu lampki kontrolnej "STOP" może być:
+a) przekroczenie dopuszczalnej temperatury płynu chłodzącego
+b) przekroczenie dopuszczalnej prędkości obrotowej silnika
+c) zbyt niskie ciśnienie oleju w silniku
+abc

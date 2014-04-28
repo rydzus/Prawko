@@ -1,0 +1,5 @@
+157. Przyczyną nadmiernego wzrostu temperatury silnika podczas jazdy autobusem może być:
+a) zbyt niski poziom cieczy w chłodnicy
+b) uszkodzenie termostatu
+c) używanie płynu chłodzącego z dodatkami antykorozyjnymi
+ab

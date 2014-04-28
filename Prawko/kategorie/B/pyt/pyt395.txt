@@ -1,0 +1,5 @@
+395. W tej sytuacji korzystanie z prawego pasa ruchu jest:
+a) dozwolone wszelkim kierującym pojazdami
+b) dozwolone kierującym pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach
+c) zabronione tylko kierującym autobusami
+b

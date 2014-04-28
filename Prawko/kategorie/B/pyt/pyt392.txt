@@ -1,0 +1,5 @@
+392. Za tymi znakami drogowymi:
+a) zabrania się zatrzymania pojazdu w innych miejscach niż wyznaczone w tym celu
+b) dopuszczalna prędkość samochodu osobowego wynosi 100 km/h
+c) rozpoczyna się autostrada
+a

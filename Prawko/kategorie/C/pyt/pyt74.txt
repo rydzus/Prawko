@@ -1,0 +1,5 @@
+74. Badanie techniczne samochodu ciężarowego z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu przeprowadza się:
+a) corocznie
+b) co 6 miesięcy
+c) dopiero po stwierdzeniu przez dozór techniczny sprawności urządzenia
+ac

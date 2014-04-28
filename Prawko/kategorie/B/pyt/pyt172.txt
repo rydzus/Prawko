@@ -1,0 +1,5 @@
+172. W tej sytuacji dalsza jazda jest możliwa pasem ruchu:
+a) 1,
+b) 2,
+c) 3.
+a

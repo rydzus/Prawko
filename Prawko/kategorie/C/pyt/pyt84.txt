@@ -1,0 +1,5 @@
+84. Jeżeli od czasu spożycia alkoholu upłynęło 8 godzin, to:
+a) można prowadzić samochód ciężarowy, niezależnie od ilości spożytego alkoholu
+b) kierującemu samochodem ciężarowym zostanie zatrzymane prawo jazdy, jeżeli podczas badania zawartość alkoholu w 1 dm3 wydychanego powietrza przekroczy 0,1 mg
+c) kierującemu samochodem ciężarowym zostanie zatrzymane prawo jazdy, jeżeli podczas badania stężenie alkoholu we krwi przekroczy 0,2 promila
+bc

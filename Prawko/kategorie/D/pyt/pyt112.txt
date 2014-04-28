@@ -1,0 +1,5 @@
+112. Przy rozruchu ciepłego silnika o zapłonie samoczynnym:
+a) hamulec awaryjny powinien być odblokowany
+b) należy ustawić dźwignię zmiany biegów w położeniu neutralnym
+c) należy mieć włączony pierwszy bieg
+b

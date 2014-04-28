@@ -1,0 +1,5 @@
+112. Przy rozruchu ciepłego silnika o zapłonie samoczynnym należy:
+a) włączyć na 20 sekund świece żarowe
+b) ustawić dźwignię zmiany biegów w położeniu neutralnym
+c) zwolnić pedał przyspieszenia zaraz po uruchomieniu silnika
+bc

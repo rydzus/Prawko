@@ -1,0 +1,5 @@
+155. Odpowietrzanie układu zasilania silnika o zapłonie samoczynnym należy rozpoczynać od:
+a) filtrów paliwa
+b) pompy wtryskowej
+c) wtryskiwaczy
+a

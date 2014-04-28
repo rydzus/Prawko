@@ -1,0 +1,5 @@
+140. Warunkiem ekonomicznego użytkowania samochodu ciężarowego jest:
+a) odpowiedni do obciążenia i prędkości jazdy, dobór przełożeń skrzyni biegów
+b) jazda bez zbędnego hamowania i przyspieszania
+c) jazda przy możliwie niskiej prędkości obrotowej silnika
+abc

@@ -1,0 +1,5 @@
+130. Kierujący autobusem z przyczepą powinien uwzględnić to, że:
+a) częściowe wjechanie przyczepy na nieutwardzone pobocze może mieć wpływ na tor jazdy zespołu
+b) oba pojazdy poruszają się zawsze tym samym torem
+c) zespół pojazdów ma gorsze przyspieszenie niż pojedynczy pojazd
+ac

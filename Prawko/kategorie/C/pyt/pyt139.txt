@@ -1,0 +1,5 @@
+139. Kierujący samochodem ciężarowym, po zauważeniu nadmiernego wzrostu temperatury płynu chłodzącego silnik, powinien:
+a) zatrzymać pojazd
+b) sprawdzić poziom płynu w układzie chłodzenia
+c) sprawdzić, czy chłodnica została całkowicie odsłonięta
+abc

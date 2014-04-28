@@ -1,0 +1,5 @@
+509. Znak umieszczony pod sygnalizatorem zezwala kierującemu pojazdem na:
+a) jazdę z lewej strony tego znaku,
+b) jazdę na wprost na skrzyżowaniu,
+c) skręt w lewo na skrzyżowaniu.
+bc

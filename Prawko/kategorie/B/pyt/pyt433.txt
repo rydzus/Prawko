@@ -1,0 +1,5 @@
+433. Stan po użyciu alkoholu zachodzi, gdy zawartość alkoholu:
+a) we krwi wynosi od 0,2 promila do 0,5 promila
+b) we krwi przekracza 0,5 promila
+c) w 1 dm3 wydychanego powietrza wynosi od 0,1 mg do 0,25 mg
+ac

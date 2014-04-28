@@ -1,0 +1,5 @@
+28. Widząc ten znak kierujący autobusem:
+a) powinien zatrzymać pojazd
+b) po zatrzymaniu może kontynuować jazdę, jeżeli w pobliżu znaku nie ma osoby kontrolującej
+c) może kontynuować jazdę tylko za zgodą osoby kontrolującej
+ac

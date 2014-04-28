@@ -1,0 +1,5 @@
+115. Rozpoczynanie jazdy autobusem przy zimnym silniku może spowodować:
+a) szybsze zużycie silnika
+b) nadmierne dymienie
+c) gorsze przyspieszanie pojazdu
+abc

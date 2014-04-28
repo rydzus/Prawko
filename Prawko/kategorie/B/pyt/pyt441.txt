@@ -1,0 +1,5 @@
+441. Policjant zatrzyma prawo jazdy za pokwitowaniem, jeżeli:
+a) stwierdzi niezgodność miejsca zamieszkania kierującego z wpisem w jego prawie jazdy
+b) kierujący znajduje się w stanie po użyciu alkoholu, albo środka działającego podobnie do alkoholu
+c) kierujący pojazdem przekroczył liczbę 24 punktów za naruszenie przepisów ruchu drogowego
+bc

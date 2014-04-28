@@ -1,0 +1,6 @@
+175. W tej sytuacji wjazd na skrzyżowanie jest:
+a) dozwolony dla jadącego na wprost,
+b) dozwolony dla skręcających w prawo,
+c) zabroniony dla skręcających w prawo.
+a
+b

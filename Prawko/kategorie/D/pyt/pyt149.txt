@@ -1,0 +1,5 @@
+149. Podczas wymiany koła kierujący autobusem:
+a) nie powinien wchodzić pod pojazd uniesiony na podnośniku
+b) powinien podłożyć kliny pod koła
+c) powinien poluzować nakrętki koła po jego uniesieniu
+ab

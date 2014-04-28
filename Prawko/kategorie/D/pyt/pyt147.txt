@@ -1,0 +1,5 @@
+147. Poziom oleju w silniku zaleca się mierzyć:
+a) bezpośrednio po unieruchomieniu silnika
+b) w pojeździe ustawionym poziomo
+c) tylko przed uruchomieniem silnika
+b

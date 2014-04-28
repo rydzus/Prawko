@@ -1,0 +1,5 @@
+437. Badanie w celu ustalenia zawartości w organizmie alkoholu może być przeprowadzone:
+a) przy użyciu urządzeń elektronicznych dokonujących pomiaru stężenia alkoholu w wydychanym powietrzu
+b) poprzez badanie krwi lub moczu
+c) również w razie braku zgody kierującego, o czym powinien być uprzedzony
+abc

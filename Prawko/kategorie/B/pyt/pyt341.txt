@@ -1,0 +1,5 @@
+341. Pozycja boczna ustalona jest dla pacjenta bezpieczna ponieważ:
+a) jest stabilna
+b) zabezpiecza przed zachłyśnięciem
+c) zapewnia drożność dróg oddechowych
+abc

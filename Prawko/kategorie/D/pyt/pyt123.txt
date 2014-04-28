@@ -1,0 +1,5 @@
+123. Podczas przewożenia pasażerów kierujący autobusem powinien unikać:
+a) gwałtownego hamowania
+b) gwałtownego przyspieszania
+c) nagłej zmiany kierunku jazdy
+abc

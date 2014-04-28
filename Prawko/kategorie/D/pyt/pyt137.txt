@@ -1,0 +1,5 @@
+137. Na prostym odcinku jezdni wielopasowej zaleca się:
+a) jechać jak najdłużej jednym i tym samym pasem ruchu
+b) korzystać w jak największym stopniu z prawego pasa  ruchu
+c) zmieniać pasy ruchu tylko w razie konieczności ominięcia lub wyprzedzenia innych pojazdów
+abc

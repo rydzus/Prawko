@@ -1,0 +1,5 @@
+383. Znak ten:
+a) zabrania przekraczania prędkości 50 km/h
+b) obowiązuje wyłącznie do najbliższego skrzyżowania
+c) oznacza wjazd do strefy, w której obowiązuje ograniczenie prędkości
+ac

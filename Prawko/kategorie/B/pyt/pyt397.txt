@@ -1,0 +1,5 @@
+397. W miejscu oznaczonym tym znakiem dopuszcza się parkowanie w całości na chodniku:
+a) samochodów osobowych
+b) samochodów ciężarowo-osobowych o dopuszczalnej masie całkowitej nie przekraczającej 2,5 t
+c) zespołów pojazdów
+ab

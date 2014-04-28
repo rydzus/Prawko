@@ -1,0 +1,5 @@
+333. Kierujący pojazdem powinien zmienić światła drogowe na mijania, gdy:
+a) kierujący pojazdem nadjeżdżającym z przeciwka zmieni światła drogowe na mijania
+b) istnieje możliwość oślepienia kierującego pojazdem komunikacji wodnej
+c) istnieje możliwość oślepienia pieszych poruszających się w kolumnie
+abc

@@ -1,0 +1,5 @@
+3. W tej sytuacji dopuszczalna prędkość motocykla przewożącego pasażera wynosi:
+a) 60 km/h, bez względu na wiek pasażera
+b) 40 km/h, jeżeli wiek pasażera nie przekracza 7 lat
+c) 90 km/h, jeżeli wiek pasażera przekracza 7 lat
+bc

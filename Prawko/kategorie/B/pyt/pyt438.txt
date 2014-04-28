@@ -1,0 +1,5 @@
+438. W razie uczestniczenia w wypadku drogowym z ofiarami, badaniu na zawartość alkoholu w organizmie:
+a) poddawany jest kierujący pojazdem uczestniczącym w wypadku
+b) poddawani są zawsze wszyscy pasażerowie pojazdu uczestniczącego w wypadku
+c) poddawana może być osoba, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem uczestniczącym w wypadku
+ac

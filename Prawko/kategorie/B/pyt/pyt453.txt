@@ -1,0 +1,5 @@
+453. W tej sytuacji zaleca się, aby kierujący pojazdem, zamierzając skręcić w prawo:
+a) zmienił jak najszybciej pas 2 na 1, bez istotnej zmiany prędkości,
+b) zmienił pas 2 na 1 tuż przed rozwidleniem drogi,
+c) zmniejszył prędkość do odpowiedniej dla skrętu po zmianie pasa 2 na 1. 
+ac

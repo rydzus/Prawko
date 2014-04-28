@@ -1,0 +1,5 @@
+257. W tej sytuacji kierujący pojazdem 1:
+a) może nie włączać kierunkowskazu przed ominięciem przeszkody
+b) może ominąć przeszkodę jadąc po poboczu
+c) ustępuje pierwszeństwa pojazdowi 2
+c

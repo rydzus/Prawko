@@ -1,0 +1,5 @@
+119. Na powierzchni jezdni oznaczonej tym znakiem, zatrzymanie tego pojazdu jest:
+a) dozwolone, w celu wysadzenia pasażera,
+b) dozwolone, nie dłużej niż 1 minutę,
+c) zabronione.
+c

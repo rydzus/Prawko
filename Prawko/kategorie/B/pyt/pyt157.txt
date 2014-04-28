@@ -1,0 +1,5 @@
+157. Sygnały te zabraniają:
+a) skręcania w prawo,
+b) jazdy na wprost przez skrzyżowanie,
+c) skręcania w lewo.
+abc

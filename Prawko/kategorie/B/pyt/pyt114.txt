@@ -1,0 +1,5 @@
+114. Znak ten wyznacza stanowisko postojowe dla:
+a) pojazdów kierowanych przez osoby niepełnosprawne, o obniżonej sprawności ruchowej,
+b) pojazdów przewożących osoby niepełnosprawne, o obniżonej sprawności ruchowej,
+c) pojazdów przewożących zoganizowane grupy dzieci i młodzieży.
+ab

@@ -1,0 +1,5 @@
+251. W tej sytuacji kierujący pojazdem:
+a) powinien zająć pas 1
+b) może zająć pas 1, 2 lub 3
+c) powinien włączyć kierunkowskaz
+bc

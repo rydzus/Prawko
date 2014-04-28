@@ -1,0 +1,5 @@
+39. Nie można kierować motocyklem, który:
+a) nie ma tablic rejestracyjnych
+b) powoduje nadmierny hałas
+c) powoduje nadmierną emisję spalin do środowiska
+abc

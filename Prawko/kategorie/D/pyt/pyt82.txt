@@ -1,0 +1,5 @@
+82. Kierowca, który spożywał alkohol, może prowadzić autobus:
+a) po kilkugodzinnej przerwie, niezależnie od ilości spożytego alkoholu
+b) jeżeli bezpośrednio po spożyciu alkoholu jego zawartość we krwi wynosi 0,2 promila
+c) jeżeli po kilkugodzinnej przerwie zawartość alkoholu w 1 dm3 wydychanego powietrza nie przekroczy 0,1 mg
+c

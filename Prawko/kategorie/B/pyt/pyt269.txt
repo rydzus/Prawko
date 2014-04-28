@@ -1,0 +1,5 @@
+269. Kierujący pojazdem wyprzedzanym:
+a) powinien zmniejszyć prędkość w czasie wyprzedzania
+b) nie powinien zwiększać prędkości w czasie wyprzedzania
+c) nie powinien zwiększać prędkości bezpośrednio po wyprzedzeniu
+bc

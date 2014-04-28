@@ -1,0 +1,5 @@
+259. W tej sytuacji kierujący pojazdem 1 powinien:
+a) zmniejszyć prędkość i zjechać maksymalnie na prawo, jeżeli istnieje możliwość przejazdu z zachowaniem bezpiecznego odstępu
+b) zatrzymać pojazd przed zwężonym odcinkiem drogi, jeśli nie ma możliwości przejazdu obu pojazdów
+c) wjechać na zwężony odcinek drogi niezależnie od możliwości zachowania bezpiecznego odstępu
+ab

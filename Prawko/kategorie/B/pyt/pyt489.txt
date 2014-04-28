@@ -1,0 +1,5 @@
+489. Szybsze zużywanie się opon kół przednich w samochodzie osobowym może być spowodowane:
+a) eksploatowaniem pojazdu z nieprawidłowym ciśnieniem powietrza w ogumieniu tych kół
+b) złym ustawieniem tych kół
+c) złym wyważeniem tych kół
+abc

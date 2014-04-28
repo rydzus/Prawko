@@ -1,0 +1,5 @@
+165. Jeżeli przy hamowaniu przód autobusu zmienia tor jazdy w lewo, to przyczyną tego może być brak hamowania:
+a) prawego przedniego koła
+b) lewego przedniego koła
+c) lewego tylnego koła
+a

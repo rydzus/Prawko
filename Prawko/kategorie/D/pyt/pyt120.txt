@@ -1,0 +1,5 @@
+120. Podczas jazdy autobusem zaleca się naciskać na pedał hamulca roboczego:
+a) lekko w regularnych odstępach czasu, podczas ulewnego deszczu
+b) pulsacyjnie, na oblodzonej nawierzchni
+c) równocześnie z włączeniem hamulca awaryjnego
+ab

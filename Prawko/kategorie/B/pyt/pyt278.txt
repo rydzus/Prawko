@@ -1,0 +1,5 @@
+278. W tej sytuacji kierujący pojazdem:
+a) 2 może wyprzedzić pojazd 3
+b) 1 nie może wyprzedzić pojazdu 2 z prawej strony
+c) 1 nie może wyprzedzić pojazdu 2 z lewej strony
+abc

@@ -1,0 +1,5 @@
+298. Widząc dwa na przemian migające czerwone sygnały przed przejazdem kolejowym, kierujący pojazdem:
+a) powinien zatrzymać pojazd
+b) może przejechać przez przejazd, jeżeli upewnił się, że nie zbliża się pociąg
+c) powinien zachować szczególną ostrożność
+ac

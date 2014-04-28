@@ -1,0 +1,5 @@
+150. Sprawdzanie poziomu oleju w przekładni głównej powinno być dokonywane:
+a) co miesiąc
+b) po stwierdzeniu hałaśliwej pracy tylnego mostu
+c) w razie stwierdzenia wycieków
+bc

@@ -1,0 +1,5 @@
+39. Policjant zatrzyma dowód rejestracyjny w razie stwierdzenia, że pojazd:
+a) narusza wymagania ochrony środowiska
+b) nie został poddany badaniu technicznemu w wyznaczonym terminie
+c) zagraża bezpieczeństwu
+abc

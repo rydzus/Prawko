@@ -1,0 +1,5 @@
+167. Sygnał ten:
+a) zabrania skręcania w prawo,
+b) zezwala na skręcanie w prawo, po uprzednim zatrzymaniu się przed sygnalizatorem,
+c) zabrania jazdy na wprost przez skrzyżowanie.
+ac

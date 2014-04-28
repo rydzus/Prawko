@@ -1,0 +1,5 @@
+516. Włączając się do ruchu kierujący pojazdem powinien:
+a) zachować szczególną ostrożność,
+b) bacznie obserwować drogę, na którą zamierza wjechać,
+c) ustąpić pierwszeństwa przejazdu innym pojazdom lub uczestnikom ruchu.
+abc

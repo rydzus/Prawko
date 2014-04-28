@@ -1,0 +1,5 @@
+53. Jeżeli awaria autobusu nastąpiła na autostradzie, to kierujący nim powinien:
+a) usunąć pojazd z jezdni
+b) ustawić ostrzegawczy trójkąt odblaskowy w odległości 100 m za pojazdem i włączyć światła awaryjne, a jeżeli pojazd nie jest w nie wyposażony - światła pozycyjne
+c) w razie unieruchomienia silnika niezwłocznie wezwać pojazd przeznaczony do holowania
+abc

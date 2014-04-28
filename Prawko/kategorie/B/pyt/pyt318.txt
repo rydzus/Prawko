@@ -1,0 +1,5 @@
+318. Postój na drodze twardej (nie będącej autostradą lub drogą ekspresową)  pojazdu silnikowego, który uległ wypadkowi należy sygnalizować:
+a) na obszarze zabudowanym - w razie pozostawienia pojazdu na poboczu
+b) poza obszarem zabudowanym - w razie pozostawienia pojazdu na poboczu w miejscu, w którym nie jest on widoczny z dostatecznej odległości
+c) na obszarze zabudowanym - w razie pozostawienia pojazdu na jezdni w miejscu, w którym zatrzymanie jest zabronione
+bc

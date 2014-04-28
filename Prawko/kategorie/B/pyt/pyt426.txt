@@ -1,0 +1,5 @@
+426. W razie przeniesienia na inną osobę własności pojazdu zarejestrowanego, dotychczasowy właściciel powinien przekazać nowemu właścicielowi:
+a) dowód zakupu pojazdu
+b) kartę pojazdu, jeżeli była wydana
+c) dowód rejestracyjny pojazdu
+bc

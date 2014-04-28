@@ -1,0 +1,5 @@
+300. W tej sytuacji kierujący pojazdem 1:
+a) nie może wyprzedzić pojazdu 2
+b) nie może ominąć pojazdu 3
+c) może przejechać przez przejazd
+ab

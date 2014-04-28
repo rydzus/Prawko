@@ -1,0 +1,5 @@
+297. Po zatrzymaniu pojazdu przed tym znakiem, kierujący:
+a) powinien oczekiwać na nadejście dróżnika
+b) nie może kontynuować jazdy, jeżeli dróżnik na to nie zezwala
+c) może kontynuować jazdę, jeżeli nie ma dróżnika i upewnił się, że nie zbliża się pociąg
+ab

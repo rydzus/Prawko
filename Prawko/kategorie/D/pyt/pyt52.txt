@@ -1,0 +1,5 @@
+52. Postój uszkodzonego autobusu, który nie jest widoczny z dostatecznej odległości, na poboczu drogi twardej (nie będącej autostradą lub drogą ekspresową), poza obszarem zabudowanym, można sygnalizować przez:
+a) włączenie świateł pozycyjnych, jeżeli pojazd nie jest wyposażony w światła awaryjne oraz umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 30-50 m za pojazdem
+b) włączenie świateł awaryjnych oraz umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem
+c) cały czas postoju
+ac

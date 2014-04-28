@@ -1,0 +1,5 @@
+81. Liczba osób przewożonych autobusem:
+a) jest ograniczona tylko pojemnością autobusu
+b) może przekraczać liczbę miejsc określonych w dowodzie rejestracyjnym, jeżeli są to dzieci w wieku do lat 10 i wszystkie zajmują miejsca siedzące
+c) nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym
+c

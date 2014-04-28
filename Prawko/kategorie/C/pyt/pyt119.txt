@@ -1,0 +1,5 @@
+119. Na łuku drogi przyczepa:
+a) porusza się tym samym torem co pojazd ciągnący
+b) zatacza większy łuk niż pojazd ciągnący
+c) zatacza mniejszy łuk niż pojazd ciągnący
+c

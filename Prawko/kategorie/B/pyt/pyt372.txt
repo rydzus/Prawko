@@ -1,0 +1,5 @@
+372. W tej sytuacji dopuszczalna prędkość samochodu ciężarowego o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t wynosi:
+a) 50 km/h, w godzinach 5. 00 - 23. 00
+b) 60 km/h, przez całą dobę
+c) 90 km/h
+a

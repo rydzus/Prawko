@@ -1,0 +1,5 @@
+122. Jadąc po piaszczystej drodze kierujący samochodem ciężarowym powinien:
+a) mieć włączony odpowiednio niski bieg i unikać gwałtownych przyspieszeń
+b) mieć włączoną blokadę mechanizmu różnicowego, jeżeli pojazd jest w nią wyposażony
+c) unikać ostrych skrętów kół
+abc

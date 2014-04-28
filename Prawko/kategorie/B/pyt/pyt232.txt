@@ -1,0 +1,5 @@
+232. Na tym skrzyżowaniu kierujący pojazdem 1:
+a) ustępuje pierwszeństwa pojazdowi 2
+b) ustępuje pierwszeństwa pojazdowi 3
+c) przejeżdża pierwszy
+c

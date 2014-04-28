@@ -1,0 +1,5 @@
+439. Policjant zatrzyma dowód rejestracyjny w razie stwierdzenia lub uzasadnionego przypuszczenia, że pojazd:
+a) zagraża bezpieczeństwu
+b) narusza wymagania ochrony środowiska
+c) zagraża porządkowi ruchu
+abc

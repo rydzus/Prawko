@@ -1,0 +1,5 @@
+37. W przyczepie ciągniętej przez ciągnik rolniczy dopuszcza się przewóz drużyn roboczych pod warunkiem, że:
+a) liczba osób w drużynie wynosi od 6 do 10
+b) osoby stojące trzymają się uchwytów
+c) osoby nie znajdują się pomiędzy ładunkiem, a przednią ścianą przyczepy
+bc

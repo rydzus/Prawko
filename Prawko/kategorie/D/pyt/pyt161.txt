@@ -1,0 +1,5 @@
+161. Brak luzu w układzie kierowniczym autobusu świadczy o tym, że:
+a) układ jest sprawny
+b) układ jest niesprawny
+c) należy tylko przesmarować wszystkie połączenia
+b

@@ -1,0 +1,5 @@
+107. Ta linia zatrzymania:
+a) zezwala na zatrzymanie pojazdu częściowo za nią,
+b) uprzedza o wjeździe na drogę podporządkowaną,
+c) wskazuje miejsce zatrzymania pojazdu, w celu ustąpienia pierwszeństwa przejazdu.
+c

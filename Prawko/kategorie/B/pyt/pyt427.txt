@@ -1,0 +1,5 @@
+427. Właściciel pojazdu zarejestrowanego powinien zawiadomić urząd rejestrujący pojazdy o:
+a) zmianie numerów nadwozia
+b) zmianie miejsca zamieszkania
+c) sprzedaży pojazdu
+abc

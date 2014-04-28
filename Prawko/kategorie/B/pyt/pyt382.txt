@@ -1,0 +1,5 @@
+382. Przy tym zestawie znaków zakaz wyrażony znakiem zakazu obowiązuje:
+a) na obszarze całej miejscowości, z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem
+b) od miejsca jego ustawienia
+c) do najbliższego skrzyżowania
+ab

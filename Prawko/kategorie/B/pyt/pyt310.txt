@@ -1,0 +1,5 @@
+310. W tej sytuacji kierujący pojazdem 1 widząc dzieci wysiadające z autobusu oznakowanego kwadratowymi tablicami barwy żółtej powinien:
+a) uważnie obserwować otoczenie drogi
+b) zwrócić szczególną uwagę tylko na dzieci wysiadające z autobusu
+c) być przygotowanym do zatrzymania pojazdu
+ac

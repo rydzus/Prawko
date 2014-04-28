@@ -1,0 +1,5 @@
+525. W tej sytuacji kierujący pojazdem może:
+a) skręcić na parking,
+b) zawrócić na skrzyżowaniu,
+c) zawrócić przed skrzyżowaniem.
+ac

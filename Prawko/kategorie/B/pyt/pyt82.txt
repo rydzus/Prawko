@@ -1,0 +1,5 @@
+82. W tej sytuacji kierujący pojazdem 1:
+a) może rozpocząć wyprzedzanie pojazdu 2,
+b) może wjechać na sąsiedni pas ruchu,
+c) nie może najechać na linię ciągłą - na całym jej odcinku.
+ab

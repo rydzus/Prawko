@@ -1,0 +1,5 @@
+468. W czasie jednej sekundy, odpowiadającej średniemu czasowi reakcji kierowcy, samochód osobowy jadący z prędkością 90 km/h przejeżdza:
+a) 10 m,
+b) 15 m,
+c) 25 m. 
+c

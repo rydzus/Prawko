@@ -1,0 +1,5 @@
+493. Polecenia i sygnały dawane przez osoby kierujące ruchem:
+a) mogą być sprzeczne ze znakami drogowymi,
+b) mają pierwszeństwo przed sygnałami świetlnymi,
+c) mają pierwszeństwo przed znakami zakazu.
+abc

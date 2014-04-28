@@ -1,0 +1,5 @@
+40. Policjant zatrzyma prawo jazdy za pokwitowaniem w razie:
+a) przekroczenia przez kierującego ciągnikiem rolniczym liczby 24 punktów za naruszenie przepisów ruchu drogowego
+b) uzyskania przez kierującego ciągnikiem rolniczym, w okresie 1 roku od wydania po raz pierwszy prawa jazdy, liczby 19 punktów za naruszenie przepisów ruchu drogowego
+c) gdy prawo jazdy jest nieczytelne lub upłynął termin jego ważności
+ac

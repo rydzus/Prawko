@@ -1,0 +1,5 @@
+16. Widząc ten znak kierujący autobusem:
+a) powinien zawsze zjechać na prawy pas ruchu
+b) powinien zjechać na prawy pas ruchu, jeżeli nie osiąga prędkości 40 km/h
+c) może jechać dowolnym pasem ruchu, jeżeli osiąga prędkość co najmniej 40 km/h
+bc

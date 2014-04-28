@@ -1,0 +1,5 @@
+403. Widząc ten znak kierujący pojazdem o rzeczywistej masie całkowitej powyżej 2 t nie może jechać dalej niż:
+a) 600 metrów za najbliższym skrzyżowaniem
+b) do miejsca ustawienia tego znaku
+c) 600 metrów tą drogą
+c

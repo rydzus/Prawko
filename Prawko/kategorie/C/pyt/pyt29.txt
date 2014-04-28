@@ -1,0 +1,5 @@
+29. Określona na znaku wartość odnosi się do:
+a) rzeczywistej masy całkowitej
+b) masy własnej
+c) dopuszczalnej masy całkowitej
+a

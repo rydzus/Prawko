@@ -1,0 +1,5 @@
+265. Zamierzając jechać na wprost i widząc stojące za tym skrzyżowaniem pojazdy, kierujący pojazdem 1:
+a) powinien zatrzymać się przed przejściem dla pieszych
+b) może zatrzymać się na przejściu dla pieszych
+c) może zatrzymać się bezpośrednio za poprzedzającym pojazdem
+a

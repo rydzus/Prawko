@@ -1,0 +1,5 @@
+409. Opuszczając pojazd, kierujący:
+a) powinien upewnić się, czy nie utrudni ruchu innym pojazdom,
+b) w każdym przypadku, może pozostawić drzwi otwarte,
+c) może zalecić pasażerom wyjście tylko od strony chodnika. 
+ac

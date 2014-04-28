@@ -1,0 +1,5 @@
+153. Przyczyną nieosiągnięcia przez silnik o zapłonie samoczynnym obrotów rozruchowych może być:
+a) niesprawny rozrusznik
+b) nadmiernie rozładowany akumulator
+c) zbyt luźny pasek klinowy napędu alternatora
+ab

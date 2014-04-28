@@ -1,0 +1,5 @@
+400. W miejscu oznaczonym tym znakiem można zaparkować pojazd czterema kołami na:
+a) jezdni, równolegle do krawężnika
+b) chodniku, prostopadle do krawężnika
+c) jezdni, prostopadle do krawężnika
+c

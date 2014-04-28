@@ -1,0 +1,5 @@
+369. W tej sytuacji dopuszczalna prędkość samochodu osobowego wynosi:
+a) 130 km/h
+b) 120 km/h
+c) 110 km/h
+b

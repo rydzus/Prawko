@@ -1,0 +1,5 @@
+151. W tej sytuacji kierujący pojazdem nie może:
+a) skręcić w lewo,
+b) zawrócić,
+c) jechać na wprost przez skrzyżowanie.
+abc

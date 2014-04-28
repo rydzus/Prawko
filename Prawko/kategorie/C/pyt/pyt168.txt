@@ -1,0 +1,5 @@
+168. Aby zapobiec uszkodzeniu alternatora, nie należy:
+a) pozostawiać na dłużej włączonego zapłonu, gdy silnik jest unieruchomiony
+b) w czasie pracy silnika odłączać akumulatora od masy pojazdu
+c) przy wymianie akumulatora podłączać najpierw przewodu masowego
+abc

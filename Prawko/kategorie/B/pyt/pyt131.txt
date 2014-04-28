@@ -1,0 +1,5 @@
+131. W tej sytuacji, gdy pojazd może być zatrzymany przed sygnalizatorem bez gwałtownego hamowania:
+a) można wjechać na skrzyżowanie,
+b) można skręcić w prawo,
+c) zabrania się wjazdu za sygnalizator.
+c

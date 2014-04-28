@@ -1,0 +1,5 @@
+246. Włączając się do ruchu, kierujący pojazdem powinien:
+a) zachować szczególną ostrożność
+b) ustąpić pierwszeństwa innemu pojazdowi
+c) ustąpić pierwszeństwa pieszym
+abc

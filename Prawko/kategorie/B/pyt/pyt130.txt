@@ -1,0 +1,5 @@
+130. W tej sytuacji kierujący tym pojazdem może opuścić skrzyżowanie po:
+a) krótkotrwałym zatrzymaniu się przed sygnalizatorem,
+b) upewnienie się, że nie utrudni ruchu innym jego uczestnikom,
+c) zmianie sygnału na zielony.
+c

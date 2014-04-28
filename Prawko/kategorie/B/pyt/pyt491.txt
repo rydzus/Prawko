@@ -1,0 +1,5 @@
+491. Samochód osobowy to:
+a) pojazd samochodowy przeznaczony konstrukcyjnie do przewozu nie więcej, niż 9 osób łącznie z kierowcą
+b) pojazd samochodowy przeznaczony konstrukcyjnie do przewozu więcej, niż 9 osób łącznie z kierowcą,
+c) pojazd samochodowy jednośladowy
+a

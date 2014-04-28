@@ -1,0 +1,5 @@
+414. Widząc zbliżający się pojazd uprzywilejowany, kierujący pojazdem powinien:
+a) ułatwić mu przejazd,
+b) zatrzymać się - w każdej sytuacji,
+c) zjechać na chodnik lub pobocze - w każdej sytuacji. 
+a

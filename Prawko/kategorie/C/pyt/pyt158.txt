@@ -1,0 +1,5 @@
+158. Przyczyną przegrzewania się silnika w samochodzie ciężarowym może być:
+a) luźny pasek klinowy
+b) uszkodzenie termostatu
+c) nieprawidłowy stan układu wtryskowego
+abc

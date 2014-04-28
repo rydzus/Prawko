@@ -1,0 +1,5 @@
+363. Pierwsza pomoc w przypadku zapalenia się odzieży na ofierze wypadku to:
+a) gaszenie płonącej odzieży,
+b) w przypadku wystąpienia oparzenia polewanie miejsca oparzenia zimną wodą,
+c) w przypadku wystąpienia oparzenia unikanie ochłodzenia oparzonej skóry.
+ab

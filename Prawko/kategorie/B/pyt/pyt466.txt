@@ -1,0 +1,5 @@
+466. Całkowita droga zatrzymania samochodu osobowego na mokrej jezdni o nawierzchni bitumicznej, jadącego z prędkością 50 km/h, mieści się w przedziale:
+a) 5-15 m,
+b) 20-30 m,
+c) 35-52 m. 
+c

@@ -1,0 +1,5 @@
+49. W razie holowania samochodu ciężarowego w sposób wykluczający potrzebę kierowania nim:
+a) w pojeździe holowanym może nie być kierującego
+b) rzeczywista masa całkowita pojazdu holowanego nie może przekraczać rzeczywistej masy całkowitej pojazdu holującego
+c) rzeczywista masa całkowita pojazdu holowanego może przekraczać o 40% rzeczywistą masę całkowitą pojazdu holującego
+ab

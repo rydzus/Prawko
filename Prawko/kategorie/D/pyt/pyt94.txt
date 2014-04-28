@@ -1,0 +1,5 @@
+94. Kierujący autobusem powinien interweniować, jeżeli pasażerowie:
+a) zaśmiecają drogę
+b) usiłują bez potrzeby otwierać wyjścia awaryjne
+c) w czasie jazdy spożywają posiłek
+ab

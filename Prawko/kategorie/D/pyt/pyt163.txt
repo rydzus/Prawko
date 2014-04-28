@@ -1,0 +1,5 @@
+163. Obsługa pneumatycznego układu hamulcowego autobusu polega m.in. na:
+a) spuszczaniu skondensowanej wody ze zbiorników powietrza
+b) codziennym sprawdzaniu osuszacza powietrza
+c) okresowym sprawdzaniu jego szczelności
+ac

@@ -1,0 +1,5 @@
+49. Zabrania się holowania autobusu:
+a) na połączeniu giętkim, jeżeli ma niesprawny jeden układ hamulcowy
+b) na połączeniu sztywnym, jeżeli ma niesprawne dwa układy hamulcowe
+c) jeżeli długość połączenia giętkiego wynosi 3 m
+abc

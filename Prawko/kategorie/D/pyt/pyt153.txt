@@ -1,0 +1,5 @@
+153. Przyczyną stuków w silniku o zapłonie samoczynnym może być:
+a) zbyt późny wtrysk paliwa
+b) nieprawidłowe działanie układu chłodzenia
+c) zbyt duży luz sworzni tłokowych
+bc

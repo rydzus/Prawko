@@ -1,0 +1,5 @@
+156. Przyczyną nieosiągnięcia przez silnik o zapłonie samoczynnym pełnej mocy może być:
+a) zużycie elementów pompy wtryskowej
+b) zanieczyszczenie filtrów paliwa
+c) przeciek z przewodów wysokiego ciśnienia
+abc

@@ -1,0 +1,5 @@
+148. Lampka kontrolna tachografu świeci się, gdy:
+a) w urządzeniu jest tarcza wykresowa
+b) jest on otwarty
+c) jest on uszkodzony
+bc

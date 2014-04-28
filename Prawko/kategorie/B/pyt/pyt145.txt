@@ -1,0 +1,5 @@
+145. Ten migający sygnał:
+a) oznacza, że za chwilę zapali się sygnał czerwony,
+b) ostrzega o niebezpieczeństwie,
+c) zabrania wjazdu za sygnalizator, chyba że pojazd nie może być zatrzymany przed nim bez gwałtownego hamowania.
+b

@@ -1,0 +1,5 @@
+178. Taka postawa kierującego ruchem oznacza:
+a) mającą nastąpić zmianę dotychczas nadawanego sygnału,
+b) zezwolenie na skręcenie w prawo,
+c) zakaz wjazdu na skrzyżowanie.
+ac

@@ -1,0 +1,5 @@
+121. W celu uniknięcia poślizgu, kierujący autobusem powinien hamować przy wykorzystaniu:
+a) hamulca roboczego
+b) hamulca silnikowego, tzw. "górskiego", łącznie z hamulcem roboczym
+c) hamulca awaryjnego
+a

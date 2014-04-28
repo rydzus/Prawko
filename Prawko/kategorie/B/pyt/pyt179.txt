@@ -1,0 +1,5 @@
+179. Taka postawa kierującego ruchem oznacza:
+a) zezwolenie na skręcenie w lewo,
+b) zezwolenie na zawrócenie,
+c) zakaz wjazdu na skrzyżowanie.
+c
